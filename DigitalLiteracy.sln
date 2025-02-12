@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B076497B-E036-3F2B-9645-963FE9C58541}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhEngine.ThaiTextCare", "PhEngine.ThaiTextCare.csproj", "{EE89CDA9-C387-4808-A0E9-896D931615FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhEngine.ThaiTextCare.Editor", "PhEngine.ThaiTextCare.Editor.csproj", "{31334A92-DBEA-924E-CB35-255419F1E6C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{B076497B-E036-3F2B-9645-963FE9C58541}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B076497B-E036-3F2B-9645-963FE9C58541}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B076497B-E036-3F2B-9645-963FE9C58541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE89CDA9-C387-4808-A0E9-896D931615FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE89CDA9-C387-4808-A0E9-896D931615FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE89CDA9-C387-4808-A0E9-896D931615FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE89CDA9-C387-4808-A0E9-896D931615FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31334A92-DBEA-924E-CB35-255419F1E6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31334A92-DBEA-924E-CB35-255419F1E6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31334A92-DBEA-924E-CB35-255419F1E6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31334A92-DBEA-924E-CB35-255419F1E6C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,7 +5,6 @@ using System.Text;
 using System.IO;
 using System;
 using UnityEngine.UI;
-using UnityEngine.iOS;
 
 public class TimeRecord : MonoSingleton<TimeRecord>
 {
@@ -160,7 +159,7 @@ public class TimeRecord : MonoSingleton<TimeRecord>
 #elif UNITY_IPHONE
         return Application.persistentDataPath  + "/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID+subPath + ".csv";
 #else
-        return  "/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
+        return   Application.persistentDataPath; //"/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
 #endif
         Debug.Log("get path leido");
     }

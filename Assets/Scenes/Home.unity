@@ -215,10 +215,6 @@ MonoBehaviour:
     m_Options:
     - m_Text: Story1
       m_Image: {fileID: 0}
-    - m_Text: Story2
-      m_Image: {fileID: 0}
-    - m_Text: Story3
-      m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []

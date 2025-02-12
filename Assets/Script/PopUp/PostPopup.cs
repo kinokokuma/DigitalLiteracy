@@ -74,7 +74,8 @@ public class PostPopup : BasePopUp
             print(data.PostImage);
             var poseTexture = Resources.Load<Texture2D>($"Image/PostImage/{data.PostImage}");
             postImage.gameObject.SetActive(true);
-            postImage.sprite = Sprite.Create(poseTexture, new Rect(0.0f, 0.0f, poseTexture.width, poseTexture.height), new Vector2(0.5f, 0.5f), 100.0f);
+            if(poseTexture != null)
+                postImage.sprite = Sprite.Create(poseTexture, new Rect(0.0f, 0.0f, poseTexture.width, poseTexture.height), new Vector2(0.5f, 0.5f), 100.0f);
         }
         else
         {

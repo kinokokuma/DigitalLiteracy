@@ -47,6 +47,7 @@ public class PopUpManager : MonoBehaviour
     private Transform goToChatParent;
     public GoToChatButton chatButton;
     public List<GoToChatButton> allChatButtonList;
+    public DialogPopup Dialog;
     [SerializeField]
    // private List<BasePopUp> allPopUpList;
     public QuestionPhase Phase => phase;
@@ -98,8 +99,8 @@ public class PopUpManager : MonoBehaviour
         yield return new WaitForEndOfFrame();
 
        // OpenChat($"{UserData.Story.ToLower()}-1");
-       //OpenDialog($"story1-1");
-       OpenChat("story1-8-2");
+       OpenDialog($"story1-1");
+       //OpenChat("story1-8-2");
         // OpenChat($"Route1/story1-10-A-1");
         startObj.SetActive(false);
     }
@@ -131,6 +132,14 @@ public class PopUpManager : MonoBehaviour
     }
     public void Update()
     {
+        if (Dialog.gameObject.active)
+        {
+            SoundManager.Instance.BGMsource.Play();
+        }
+        else
+        {
+            SoundManager.Instance.BGMsource.Pause();
+        }
         if (currentPostPopupData != null)
         {
             if (currentPostPopupData.IsTask)

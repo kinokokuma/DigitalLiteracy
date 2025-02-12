@@ -56,13 +56,13 @@ public class LoadData : MonoBehaviour
     private string getPath()
     {
 #if UNITY_EDITOR
-        return Application.dataPath+ "/Test";
+        return Application.persistentDataPath;
 #elif UNITY_ANDROID
         return Application.persistentDataPath ;
 #elif UNITY_IPHONE
         return Application.persistentDataPath;
 #else
-        return  "/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
+        return  Application.persistentDataPath; //"/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
 #endif
         Debug.Log("get path leido");
     }

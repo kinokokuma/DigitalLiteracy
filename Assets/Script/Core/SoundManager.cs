@@ -15,6 +15,7 @@ public class SoundManager : MonoSingleton<SoundManager>
     public AudioClip chatPop;
     public AudioClip newChat;
     public AudioSource source;
+    public AudioSource BGMsource;
     public Dictionary<SoundID, AudioClip> soundDic = new Dictionary<SoundID, AudioClip>();
 
     public void Start()
@@ -22,6 +23,7 @@ public class SoundManager : MonoSingleton<SoundManager>
         soundDic[SoundID.touch] = touch;
         soundDic[SoundID.chatPop] = chatPop;
         soundDic[SoundID.newChat] = newChat;
+        BGMsource.Play();
     }
     public void Update()
     {
