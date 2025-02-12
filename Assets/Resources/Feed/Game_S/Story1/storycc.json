@@ -1,0 +1,81 @@
+{
+    "ID": "chat-04",
+    "BG": "",
+    "ChatName": "ซี",
+    "DataDetail" :[
+        {
+        "ID": "chat-04",
+        "OnwerName": "แก้ว",
+        "ChatSide": "left",
+        "DialogImage":[
+        {
+            "Image":"image/test1",
+            "ImageSide":"left",
+            "Active" :true
+        },
+        {
+            "Image":"image/test2",
+            "ImageSide":"right",
+            "Active" :false
+        }
+        ],
+        "ChatType": "Time",
+        "DelayTime": 0,
+        "Content": "สวัสดีกล้า จะไปไหนหรอ",
+        "PostImage": "",
+        "LinkToPageName": ""
+    },
+    {
+        "ID": "chat-04",
+        "OnwerName": "กล้า",
+        "ChatSide": "right",
+        "DialogImage":[
+        {
+            "Image":"image/test1",
+            "ImageSide":"left",
+            "Active" :false
+        },
+        {
+            "Image":"image/test2",
+            "ImageSide":"right",
+            "Active" :true
+        }
+        ],
+        "ChatType": "Time",
+        "DelayTime": 0,
+        "Content": "ไปตลาด",
+        "PostImage": "",
+        "LinkToPageName": "story1-1"
+    },
+    {
+        "ID": "chat-04",
+        "OnwerName": "กล้า",
+        "ChatSide": "right",
+        "DialogImage":[
+        {
+            "Image":"image/test1",
+            "ImageSide":"left",
+            "Active" :false
+        },
+        {
+            "Image":"image/test2",
+            "ImageSide":"right",
+            "Active" :true
+        }
+        ],
+        "ChatType": "Time",
+        "DelayTime": 0,
+        "Content": "ไปตลาด",
+        "Choice": [ 
+        {
+            "ID": "001",
+            "Path": "ไปคุยกับแม่",
+            "LinkType": "chat",
+            "FileName": "story1-1"
+        }],
+        "LinkToPageName": "storycc"
+    }
+    
+
+    ]
+}

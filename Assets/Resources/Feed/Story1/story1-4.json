@@ -1,0 +1,75 @@
+{
+    "ID": "chat-02",
+    "ChatName": "เจน",
+    "Icon": [
+        "Image/Story1/profileJ"
+    ],
+    "DataDetail": [
+        {
+            "ID": "chat-01",
+            "OnwerName": "my",
+            "Icon": "",
+            "ChatType": "Time",
+            "DelayTime": 0,
+            "Content": "5 ,ม.ค. 2025 10:20",
+            "PostImage": "",
+            "LinkToPageName": ""
+        },
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ป้าก้อยคะ คุณแม่ฝากขอบคุณเรื่องผลไม้เมื่อวันก่อนด้วยค่ะ",
+            "PostImage": "",
+            "LinkToPageName": ""
+        },
+        
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "พูดถึงเรื่องเมื่อ วันก่อนป้าก็โชคดีเหมือนกัน มีคนส่งข้อความมาหาป้าว่าป้าเป็นผู้โชคดีได้รางวัลใหญ่ด้วยนะลูก"
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "โอ้โห ไหนคะป้าก้อย เจนขอดูหน่อยได้ไหมคะว่าได้อะไร"
+        },       
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ป้าจำได้ว่าเราต้องเช็คก่อนว่าน่าเชื่อถือรึเปล่า"
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 2,
+            "Choice": [
+                {
+                    "ID": "question_108",
+                    "Path": "เช็คความน่าเชื่อถือ",
+                    "LinkType": "page",
+                    "FileName": "page1"
+                },
+                {
+                    "ID": "001",
+                    "CanClick": true,
+                    "Path": "ไม่เช็ค",
+                    "LinkType": "chat",
+                    "FileName": "story1-6"
+                }
+
+            ]
+        }
+    ]
+}

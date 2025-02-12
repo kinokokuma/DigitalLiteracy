@@ -1,0 +1,44 @@
+{
+    "ID": "chat-01",
+    "BG": "tv",
+    "DataDetail": [
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ป้าเพิ่งเปลี่ยนรหัสไปเดือนก่อนนี่เอง"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :false
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "ChatType": "Normal",
+            "Content": "เยี่ยมเลยค่ะป้าก้อย แต่ป้าก้อยรู้ใช่ไหมคะ ว่ารหัสผ่านไม่ควรตั้งให้เดาได้ง่าย ๆ",
+            "LinkType": "dialog",
+            "FileName" : "story1-12-1"
+        }
+        
+    ]
+}

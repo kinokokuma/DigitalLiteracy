@@ -1,0 +1,35 @@
+{
+    "ID": "chat-02",
+    "ChatName": "เจน",
+    "Icon": [
+        "Image/Story1/profileJ"
+    ],
+    "DataDetail": [
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ป้าไม่ได้ส่งไปหรอกหนูเจน ป้าเข้าลิงค์ไปดูแล้วมันแปลก ๆ ทำไมต้องให้ถ่ายรูปบัตรประชานชนกับบัตรเครดิตไปด้วยก็ไม่รู้ "
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "เหมือนมิจฉาชีพตามที่เห็นในข่าวเลย "
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ป้าก้อยทำถูกแล้วค่ะ ถ้าส่งไปอาจจะเป็นช่องทางให้มิจฉาชีพเอาข้อมูลของป้าไปใช้ทำอย่างอื่นก็ได้นะคะ",
+            "LinkType": "dialog",
+            "FileName": "story1-9-2"
+           
+        }
+
+    ]
+}

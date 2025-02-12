@@ -1,0 +1,91 @@
+{
+    "ID": "chat-04",
+    "BG": "",
+    "ChatName": "ซี",
+    "DataDetail" :[
+        {
+            "ID": "chat-04",
+            "OnwerName": "",
+            "ChatSide": "mid",
+            "ChatType": "Time",
+            "DelayTime": 0,
+            "Content": "วันหนึ่งในประเทศไทย",
+            "PostImage": "",
+            "LinkToPageName": ""
+        },
+        {
+        "ID": "chat-04",
+        "OnwerName": "แก้ว",
+        "ChatSide": "left",
+        "DialogImage":[
+        {
+            "Image":"image/test1",
+            "ImageSide":"left",
+            "Active" :true
+        }
+        ],
+        "ChatType": "Time",
+        "DelayTime": 0,
+        "Content": "วันนี้อากาศดีจัง",
+        "PostImage": "",
+        "LinkToPageName": ""
+    },
+    {
+        "ID": "chat-04",
+        "OnwerName": "กล้า",
+        "ChatSide": "right",
+        "DialogImage":[
+        {
+            "Image":"image/test1",
+            "ImageSide":"left",
+            "Active" :false
+        },
+        {
+            "Image":"image/test2",
+            "ImageSide":"right",
+            "Active" :true
+        }
+        ],
+        "ChatType": "Time",
+        "DelayTime": 0,
+        "Content": "ว่าไงแก้ว",
+        "PostImage": "",
+        "LinkToPageName": ""
+    },
+    {
+        "ID": "chat-04",
+        "OnwerName": "กล้า",
+        "ChatSide": "mid",
+        "DialogImage":[
+        {
+            "Image":"image/test1",
+            "ImageSide":"left",
+            "Active" :false
+        },
+        {
+            "Image":"image/test2",
+            "ImageSide":"right",
+            "Active" :true
+        }
+        ],
+        "ChatType": "Time",
+        "DelayTime": 0,
+        "Content": "จะทักทายกล้าไหม",
+        "Choice": [ 
+            {
+            "ID": "001",
+            "Path": "ทัก",
+            "LinkType": "dialog",
+            "FileName": "storycc"
+        },
+        {
+            "ID": "001",
+            "Path": "ไม่ทัก",
+            "LinkType": "chat",
+            "FileName": "story1-1"
+        }],
+        "LinkToPageName": "storycc"
+    }
+
+    ]
+}

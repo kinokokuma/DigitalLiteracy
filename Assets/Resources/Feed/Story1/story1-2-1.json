@@ -1,0 +1,85 @@
+{
+    "ID": "chat-01",
+    "BG": "house",
+    "DataDetail": [
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": " ขอบใจนะหนูเจน อายุมั่นขวัญยืนกันนะลูกนะ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "เออจริงสิ เมื่อวันก่อนป้าเห็นแม่เราลงว่าได้เกรด 4.00 นี่ เก่งมากเลย"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :false
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ขอบคุณค่ะป้าก้อย เจนตั้งใจว่าจะเอาเกียรตินิยมมาให้คุณแม่น่ะค่ะ"
+        },
+        {      
+            "ChatSide": "mid",  
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :false
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content" : "กรุณาเลือกคำตอบ",
+            "Choice" : [
+                {   "ID" : "001",
+                    "Path": "แม่หนูนี่โชคดีจริง ๆ เลย",
+                    "LinkType": "dialog",
+                    "FileName" : "story1-3-1"
+                },
+                {   "ID" : "001",
+                    "Path": " น่าอิจฉาแม่ของหนูจริง ๆ เลย",
+                    "LinkType": "dialog",
+                    "FileName" : "story1-3-2"
+                }
+            ]
+        }
+    ]
+}

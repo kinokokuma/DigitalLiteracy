@@ -1,0 +1,80 @@
+{
+    "ID": "chat-01",
+    "ChatName": "พ่อแม่",
+    "Icon": [
+        "Image/Story1/profileJ",
+        "Image/Story1/profileP"
+    ],
+    "DataDetail": [{
+        "ID": "chat-01",
+        "OnwerName": "my",
+        "Icon": "",
+        "ChatType": "Time",
+        "DelayTime": 0,
+        "Content": "7 เม.ย. 2024 10:20",
+        "PostImage": "",
+        "LinkToPageName": ""
+    },
+        {
+            "ID": "chat-01",
+            "OnwerName": "แม่",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "test1",
+            "PostImage": "",
+            "LinkToPageName": ""
+        },
+        
+        {
+            "ID": "chat-01",
+            "OnwerName": "แม่",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "test2",
+            "PostImage": "",
+            "LinkToPageName": ""
+        },        
+        {
+            "ID": "chat-01",
+            "OnwerName": "แม่",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "test2",
+            "PostImage": "",
+            "LinkToPageName": ""
+        },
+        {
+            "ID": "chat-01",
+            "OnwerName": "my",
+            "Icon": "",
+            "ChatType": "Normal",
+            "DelayTime": 2,
+            "Content": "",
+            "ChoiceImage": [
+                {
+                    "ID": "question_108",
+                    "CanClick": true,
+                    "Path": "Image/Story1/angry",
+                    "LinkType": "chat",
+                    "FileName": "Route1/story1-2"
+                },
+                {
+                    "ID": "001",
+                    "CanClick": true,
+                    "Path": "Image/Story1/emoji1",
+                    "LinkType": "chat",
+                    "FileName": "Route1/story1-2"
+                }
+
+            ],
+        
+            "PostImage": "",
+            "LinkToPageName": "Route1/story1-2",
+            "LinkType": "",
+            "FileName": ""
+        }
+    ]
+}

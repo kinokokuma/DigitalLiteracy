@@ -1,0 +1,61 @@
+{
+    "ID": "chat-01",
+    "BG": "tv",
+    "DataDetail": [
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ก็รหัสที่เป็นวันเกิดป้าไง ป้าเคยเปลี่ยนแล้วแต่จำไม่ได้เลยกลับมาใช้รหัสเดิมตั้งแต่ปีก่อนแล้วลูก"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :false
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ป้าก้อยไม่ได้เปลี่ยนรหัสผ่านมา 1 ปีแล้วเหรอคะ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "ChatType": "Normal",
+            "Content": "ป้ากลัวป้าจำไม่ได้นี่ลูก แย่แล้ว หนูเจนป้าจะทำยังไงดี",
+            "LinkType": "dialog",
+            "FileName" : "story1-12-2"
+        }
+        
+    ]
+}

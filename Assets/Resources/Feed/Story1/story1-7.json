@@ -1,0 +1,45 @@
+{
+    "ID": "chat-02",
+    "ChatName": "เจน",
+    "Icon": [
+        "Image/Story1/profileJ"
+    ],
+    "DataDetail": [
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ป้าก้อยคะ นี่มันมีให้ถ่ายรูปด้านหน้า-หลัง บัตรประชาชน แล้วอะไรเนี่ย ให้ถ่ายบัตรเครดิตไปด้วยนี่คะ! ป้าก้อยยังไม่ได้ส่งไปใช่ไหมคะ",
+            "PostImage": "",
+            "LinkToPageName": ""
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "",
+            "Choice": [
+                {
+                    "ID": "question_108",
+                    "Path": "ส่ง",
+                    "LinkType": "chat",
+                    "FileName": "story1-8-1"
+                },
+                {
+                    "ID": "001",
+                    "CanClick": true,
+                    "Path": "ไม่ส่ง",
+                    "LinkType": "chat",
+                    "FileName": "story1-8-2"
+                    
+                }
+
+            ]
+        }
+
+    ]
+}

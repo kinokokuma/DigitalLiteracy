@@ -1,0 +1,89 @@
+{
+    "DataDetail" :[
+    {
+        "ID" : "",
+       "OnwerName" : "",
+       "Icon" : "Image/Icon/icon7",
+       "ChatType" : "Normal",
+       "DelayTime" : 1,
+       "Content" : "test2",
+       "PostImage" : "",
+       "LinkToPageName" : ""
+   },
+   {
+        "ID" : "",
+        "OnwerName" : "my",
+        "Icon" : "",
+        "ChatType" : "Normal",
+        "DelayTime" : 0.2,
+        "Content" : "test3",
+        "PostImage" : "",
+
+        "LinkToPageName" : ""
+    },
+    {
+        "ID" : "",
+        "OnwerName" : "",
+        "Icon" : "Image/Icon/icon7",
+        "ChatType" : "Normal",
+        "DelayTime" : 5,
+        "Content" : "test4",
+        "PostImage" : "",
+
+        "LinkToPageName" : ""
+    },
+    {
+        "ID" : "",
+        "OnwerName" : "",
+        "Icon" : "",
+        "ChatType" : "Normal",
+        "DelayTime" : 1,
+        "Content" : "test5",
+        "PostImage" : "",
+
+        "LinkToPageName" : ""
+    }
+    ,
+    {
+        "ID" : "",
+        "OnwerName" : "",
+        "Icon" : "Image/Icon/icon7",
+        "ChatType" : "Button",
+        "DelayTime" : 2,
+        "Content" : "",
+        "PostImage" : "Image/Icon/icon7",
+
+        "LinkToPageName" : ""
+    },
+    {
+        "ID" : "",
+        "OnwerName" : "",
+        "Icon" : "",
+        "ChatType" : "Button",
+        "DelayTime" : 1,
+        "Content" : "test5",
+        "PostImage" : "",
+
+        "LinkToPageName" : ""
+    },
+    {
+        "ID" : "",
+        "OnwerName" : "my",
+        "Icon" : "",
+        "ChatType" : "Normal",
+        "DelayTime" : 2,
+        "ChoiceImage" : [
+            {   "ID" : "001",
+                "Path": "Image/PostImage/post1"
+            },
+            {"Path": "Image/PostImage/post2"},
+            {"Path": "Image/PostImage/post3"},
+            {"Path": "Image/PostImage/post5"},
+            {"Path": "Image/PostImage/post4"}
+        ],
+        "PostImage" : "Image/Icon/icon7",
+
+        "LinkToPageName" : ""
+    }
+    ]
+}

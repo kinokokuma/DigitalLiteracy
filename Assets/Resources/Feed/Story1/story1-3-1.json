@@ -1,0 +1,64 @@
+{
+    "ID": "chat-01",
+    "BG": "house",
+    "DataDetail": [
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "แม่หนูนี่โชคดีจริง ๆ เลย"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "มานี่มา ป้าให้ขนมไปกินนะลูก แล้วก็ฝากผลไม้ไปให้แม่ด้วยนะ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :false
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ขอบคุณค่ะป้าก้อย"
+        },
+        {      
+            "ChatSide": "mid",  
+            "ChatType": "Normal",
+            "Content" : "หลายวันต่อมา",
+            "LinkType": "chat",
+            "FileName" : "story1-4"
+        }
+    ]
+}

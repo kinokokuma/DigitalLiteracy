@@ -1,0 +1,44 @@
+{
+    "ID": "chat-01",
+    "BG": "tv",
+    "DataDetail": [
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "คงไม่เป็นไรหรอกมั้งหนูเจน คราวที่แล้วยังมีคนเก็บได้ แล้วเอาไปแจ้งธนาคารให้เขาเอามาคืนป้าเลย"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :false
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "ChatType": "Normal",
+            "Content": "ป้าก้อยคะ ทุกวันนี้ไม่ใช่ทุกคนที่จะเป็นคนดีแบบนั้นนะคะ",
+            "LinkType": "dialog",
+            "FileName" : "story1-11-1"
+        }
+        
+    ]
+}

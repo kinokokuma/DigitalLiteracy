@@ -1,0 +1,46 @@
+{
+    "ID": "chat-01",
+    "BG": "news",
+    "DataDetail": [
+        {
+            "ChatSide": "mid",
+            "Content": "“ข่าวด่วน เหยื่อแฉ กลโกงมิจฉาชีพ ใช้วิธีการส่งข้อความ ลิงค์ปลอมว่าเป็นผู้โชคดีได้รับรางวัล เพื่อเอาข้อมูลจากเหยื่อ อีกวิธีคือการโทรหาเหยื่อ โดยแสร้งเป็นเจ้าหน้าที่ธนาคาร เพื่อให้เหยื่อบอกหมายเลขบัญชีพร้อมรหัสผ่าน แล้วนำข้อมูลที่ได้ไปถอนเงินจากบัญชีเหยื่อ ปัจจุบันมีผู้เสียหายเข้าแจ้งความเป็นจำนวนมาก คาดมูลค่าความเสียหายไม่ต่ำกว่า 10 ล้านบาท ”"
+        },{
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "เฮ้ย! ทำไมมีแจ้งเตือนเงินออกจากบัญชีล่ะ ไม่นะ! เงินที่ฉันเก็บมา!"
+        },{
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :true
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "ChatType": "Normal",
+            "Content": "เฮ้ย! โชคดีนะที่ไม่ได้ให้ข้อมูลไป",
+            "LinkType": "page",
+            "FileName" : "end"
+        }
+        
+    ]
+}

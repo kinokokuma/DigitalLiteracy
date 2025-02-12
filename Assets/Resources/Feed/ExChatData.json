@@ -1,0 +1,68 @@
+{
+    "DataDetail" :[
+    {
+        "ID" : "ตัวอย่าง เบื้องต้น ทุกข้อต้องมีข้อมูลทุกอย่างในนี้ห้ามขาด ถ้าไม่มีใส่ว่างไว้ ห้ามลบทิ้ง",
+       "OnwerName" : "",
+       "Icon" : "Image/Icon/icon7",
+       "ChatType" : "Normal",
+       "DelayTime" : 1,
+       "Content" : "test2",
+       "story1" : "",
+       "LinkToPageName" : "GotoFeed"
+   },
+    {
+        "ID" : "ตัวอย่าง ช้อยรูปภาพ",
+        "OnwerName" : "my",
+        "Icon" : "",
+        "ChatType" : "Normal",
+        "DelayTime" : 2,
+        "Content" : "",
+        "ChoiceImage" : [
+            {   "ID" : "001",
+                "Path": "Image/story1/post1"
+            },
+            {   "ID" : "001",
+                "Path": "Image/story1/post2"
+            },
+            {   "ID" : "001",
+                "Path": "Image/story1/post3"
+            },
+            {   "ID" : "001",
+                "Path": "Image/story1/post5"
+            },
+            {   "ID" : "001",
+                "Path": "Image/story1/post4"
+            }
+        ],
+        "story1" : "Image/story1/icon7",
+
+        "LinkToPageName" : "story1-2"
+    },
+    {
+        "ID" : "chat-01",
+        "OnwerName" : "my",
+        "Icon" : "",
+        "ChatType" : "Normal",
+        "DelayTime" : 2,
+        "Content" : "ไปเที่ยว{0}กัน",
+        "ChoiceImage" : [
+            {   "ID" : "001",
+                "Path": "เชียงใหม่",
+                "FileName" : "story1-2"
+            },
+            {   "ID" : "001",
+                "Path": "พัทยา",
+                "FileName" : "story1-3"
+            },
+            {   "ID" : "001",
+                "Path": "หัวหิน",
+                "FileName" : "story1-3"
+            }
+        ],
+        "story1" : "Image/story1/icon7",
+
+        "LinkToPageName" : "go to story1-2",
+        "FileName" : "story1-2"
+    }
+    ]
+}

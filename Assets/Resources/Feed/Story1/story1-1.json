@@ -1,0 +1,55 @@
+{
+    "ID": "chat-01",
+    "BG": "house",
+    "DataDetail": [
+        {
+            "ChatSide": "mid",
+            "Content": "วันหนึ่งในประเทศไทย"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :false
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ป้าก้อย สวัสดีปีใหม่นะคะ แม่กับเจนเอากระเช้าผลไม้มาฝากค่ะ"
+        },
+        {      
+            "ChatSide": "mid",  
+            "DialogImage":[
+            {
+                "Image":"image/keaw",
+                "ImageSide":"right",
+                "Active" :false
+            },
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content" : "กรุณาเลือกคำตอบ",
+            "Choice" : [
+                {   "ID" : "001",
+                    "Path": "ขอบใจนะหนูเจน อายุมั่นขวัญยืนกันนะลูกนะ",
+                    "LinkType": "dialog",
+                    "FileName" : "story1-2-1"
+                },
+                {   "ID" : "001",
+                    "Path": "เอามาทำไมลูก แค่มาหาป้าก็ดีใจแล้ว",
+                    "LinkType": "dialog",
+                    "FileName" : "story1-2-2"
+                }
+            ]
+        }
+    ]
+}
