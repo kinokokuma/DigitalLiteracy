@@ -62,7 +62,7 @@ public class LoadData : MonoBehaviour
 #elif UNITY_IPHONE
         return Application.persistentDataPath;
 #else
-        return  Application.persistentDataPath; //"/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
+        return  Application.persistentDataPath + "/CSV/" + UserData.Story+ "_" + UserData.UserID + ".csv";
 #endif
         Debug.Log("get path leido");
     }

@@ -56,11 +56,11 @@ public class MakeAllUseResourcesPath : MonoBehaviour
 #if UNITY_EDITOR
         return Application.dataPath + "/CSV/" + UserData.Story  + "_" + UserData.UserID + ".csv";
 #elif UNITY_ANDROID
-        return Application.persistentDataPath;//  + "/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
+        return Application.persistentDataPath  + "/CSV/" + UserData.Story + "_" + UserData.UserID + ".csv";
 #elif UNITY_IPHONE
-        return Application.persistentDataPath ;// + "/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
+        return Application.persistentDataPath  + "/CSV/" + UserData.Story + "_" + UserData.UserID + ".csv";
 #else
-        return   Application.persistentDataPath ;//"/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
+        return   Application.persistentDataPath +"/CSV/" + UserData.Story + "_" + UserData.UserID + ".csv";
 #endif
         Debug.Log("get path leido");
     }
