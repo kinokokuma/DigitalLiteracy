@@ -57,20 +57,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\WordHit.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextNurse\ThaiTextCare_ExampleScript.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\Highlight_ExampleScript.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\WordUtils.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\Highlight.cs" />
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextNurse\TokenizeResult.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\Highlightable.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\WordHighlighter.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\WordUtils.cs" />
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextNurse\ThaiFontAdjuster\ThaiFontAdjuster.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\HighlightAtMouseDown.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\ImageHighlight.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextCareSettings.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextNurse\ThaiTextCare_ExampleScript.cs" />
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextNurse\TokenizeRequest.cs" />
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextNurse\PhTokenizer.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\Highlight.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\Highlightable.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextCareSettings.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\WordHighlighter.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\Highlight_ExampleScript.cs" />
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\ThaiTextNurse\ThaiTextNurse.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\HighlightAtMouseDown.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Runtime\Utility\Highlights\ImageHighlight.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ThaiTextCare-for-Unity-main\Runtime\PhEngine.ThaiTextCare.asmdef" />

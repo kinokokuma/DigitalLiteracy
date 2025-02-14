@@ -155,9 +155,9 @@ public class TimeRecord : MonoSingleton<TimeRecord>
 #if UNITY_EDITOR
         return Application.dataPath + "/CSV/" + UserData.Story + "_" + UserData.UserID+ subPath + ".csv";
 #elif UNITY_ANDROID
-        return Application.persistentDataPath  + "/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID+subPath + ".csv";
+        return Application.persistentDataPath;//  + "/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID+subPath + ".csv";
 #elif UNITY_IPHONE
-        return Application.persistentDataPath  + "/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID+subPath + ".csv";
+        return Application.persistentDataPath ;// + "/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID+subPath + ".csv";
 #else
         return   Application.persistentDataPath; //"/CSV/" + UserData.Story + "_" + UserData.Solution+ "_" + UserData.UserID + ".csv";
 #endif

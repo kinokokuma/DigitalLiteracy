@@ -74,8 +74,8 @@ public class PopUpManager : MonoBehaviour
         TimeRecord.Instance.CreatePlayerCsv();
         chatPopUpDic = new Dictionary<string, ChatPopup>();
         popUpDic = new Dictionary<string, BasePopUp>();
-        data = new FeedData();
-        data = JsonUtility.FromJson<FeedData>(ReadFile("Feed/Class1").ToString());
+       // data = new FeedData();
+       // data = JsonUtility.FromJson<FeedData>(ReadFile("Feed/Class1").ToString());
         dialogPopup.SetManager(this);
         timeToClickChat = Time.time;
         StartCoroutine(StartChatStory());

@@ -56,16 +56,16 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiFontDoctor\ThaiGlyphHelper.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiFontDoctor\ThaiFontDoctor.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextNurse\ThaiTextCareSettingsEditor.cs" />
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiFontDoctor\ThaiFontDoctorEditor.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextNurse\ThaiTextCareSettingsProvider.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiFontDoctor\ThaiGlyphHelper.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextNurse\ThaiTextNurseEditor.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiFontDoctor\GlyphCombination.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextCareGUI.cs" />
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiFontDoctor\GlyphGroup.cs" />
     <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextNurse\ThaiTextCareEditorCore.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextNurse\ThaiTextCareSettingsEditor.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextCareGUI.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiFontDoctor\GlyphCombination.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextNurse\ThaiTextNurseEditor.cs" />
-    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiTextNurse\ThaiTextCareSettingsProvider.cs" />
+    <Compile Include="Assets\ThaiTextCare-for-Unity-main\Editor\ThaiFontDoctor\ThaiFontDoctor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ThaiTextCare-for-Unity-main\Editor\PhEngine.ThaiTextCare.Editor.asmdef" />
