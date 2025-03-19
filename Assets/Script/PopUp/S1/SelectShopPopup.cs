@@ -26,7 +26,7 @@ public class SelectShopPopup : BasePopUp
 
     public void back(string name)
     {
-        manager.OpenChat(name);
+        manager.OpenChat(name, true);
         gameObject.SetActive(false);
     }
 }

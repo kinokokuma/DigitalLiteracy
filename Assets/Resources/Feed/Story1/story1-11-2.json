@@ -1,32 +1,33 @@
 {
     "ID": "chat-01",
-    "BG": "tv",
+    "BG": "house",
     "DataDetail": [
         {
             "OnwerName": "เจน",
             "ChatSide": "left",
             "DialogImage":[
             {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "แล้วรหัสบัตรของป้าก้อย ใช่รหัสที่เจนเคยลงทะเบียนให้ไหมคะ"
+        },{
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :true
             }
             ],
-            "Content": "แล้วรหัสบัตรของป้าก้อย ใช่รหัสที่เจนเคยลงทะเบียนให้ไหมคะ ป้าก้อยเปลี่ยนรหัสแล้วใช่ไหมคะ"
+            "Content": "ป้าก้อยเปลี่ยนรหัสแล้วใช่ไหมคะ"
         },
         {      
             "ChatSide": "mid",  
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
@@ -34,17 +35,27 @@
             }
             ],
             "ChatType": "Normal",
-            "Content" : "ไม่ได้เปลี่ยนรหัสใช่หรือไม่",
+            "Content" : "คุณได้ทําการเปลี่ยนรหัสในรอบ 1 ปีใช่หรือไม",
             "Choice" : [
                 {   "ID" : "001",
-                    "Path": "ใช่ ไม่ได้เปลี่ยนรหัส",
+                    "Path": " ป้าไม่ได้เปลี่ยนหรอก ป้ากลัวจําไม่ได้ลูก",
                     "LinkType": "dialog",
                     "FileName" : "story1-11-2-1"
                 },
                 {   "ID" : "001",
-                    "Path": " ไม่ใช่ เปลี่ยนรหัสแล้ว",
+                    "Path": " ต้องเปลี่ยนด้วยหรอ ป้าไม่เห็นว่ามันจะสําคัญเลย ถ้าเราไม่ได้บอกใคร ",
+                    "LinkType": "dialog",
+                    "FileName" : "story1-11-2-3"
+                },
+                {   "ID" : "001",
+                    "Path": " ป้าเปลี่ยนแล้วลูก เพราะหนูกําชับป้านี่แหละ ",
                     "LinkType": "dialog",
                     "FileName" : "story1-11-2-2"
+                },
+                {   "ID" : "001",
+                    "Path": " เปลี่ยนแล้ว ป้าดูข่าวบ่อยๆ เขาบอกให้เปลี่ยน",
+                    "LinkType": "dialog",
+                    "FileName" : "story1-11-2-4"
                 }
             ]
         }

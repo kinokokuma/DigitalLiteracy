@@ -11,7 +11,37 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าก้อยคะ นี่มันมีให้ถ่ายรูปด้านหน้า-หลัง บัตรประชาชน แล้วอะไรเนี่ย ให้ถ่ายบัตรเครดิตไปด้วยนี่คะ! ป้าก้อยยังไม่ได้ส่งไปใช่ไหมคะ",
+            "Content": "ป้าก้อยคะ ",
+            "PostImage": "",
+            "LinkToPageName": ""
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "นี่มันมีให้ถ่ายรูปด้านหน้า-หลัง บัตรประชาชน",
+            "PostImage": "",
+            "LinkToPageName": ""
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "แล้วอะไรเนี่ย ให้ถ่ายบัตรเครดิตไปด้วยนี่คะ!",
+            "PostImage": "",
+            "LinkToPageName": ""
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ป้าก้อยยังไม่ได้ส่งไปใช่ไหมคะ",
             "PostImage": "",
             "LinkToPageName": ""
         }, 

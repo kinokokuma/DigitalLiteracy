@@ -164,11 +164,11 @@ public class PopUpManager : MonoBehaviour
         }
         return path;
     }
-    
-    public void OpenChat(string path,bool muteSound = false,bool isOld =false)
+
+    public void OpenChat(string path, bool showLineHome = false, bool muteSound = false, bool isOld = false)
     {
         path = GetSpPath(path);
-
+        dialogPopup.gameObject.SetActive(false);
         ChatData newData = ReadChatData($"Feed/{UserData.Story}/{path}");
         print(path);
         print(newData.ID);
@@ -182,8 +182,8 @@ public class PopUpManager : MonoBehaviour
             }
 
             chatPopUpDic[id].gameObject.SetActive(true);
-            StopCoroutine(chatPopUpDic[id].ShowChat(newData, muteSound));
-            StartCoroutine(chatPopUpDic[id].ShowChat(newData, muteSound));
+            StopCoroutine(chatPopUpDic[id].ShowChat(newData, muteSound, showLineHome));
+            StartCoroutine(chatPopUpDic[id].ShowChat(newData, muteSound, showLineHome));
 
         }
         else
@@ -198,7 +198,7 @@ public class PopUpManager : MonoBehaviour
             popup.gameObject.SetActive(true);
             chatPopUpDic[id] = popup;
             popUpDic[id] = popup;
-            StartCoroutine(popup.ShowChat(newData,muteSound));
+            StartCoroutine(popup.ShowChat(newData,muteSound, showLineHome));
 
             GoToChatButton butt = Instantiate(chatButton, goToChatParent);
             butt.gameObject.SetActive(true);

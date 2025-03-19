@@ -58,7 +58,7 @@ public class bank1Popup : BasePopUp
 
     public void back(string name)
     {
-        manager.OpenChat(name);
+        manager.OpenChat(name,true);
         gameObject.SetActive(false);
     }
 }

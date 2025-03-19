@@ -10,8 +10,22 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าไม่ได้ส่งไปหรอกหนูเจน ป้าเข้าลิงค์ไปดูแล้วมันแปลก ๆ ทำไมต้องให้ถ่ายรูปบัตรประชานชนกับบัตรเครดิตไปด้วยก็ไม่รู้ "
+            "Content": "ป้าไม่ได้ส่งไปหรอกหนูเจน "
+        },
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ป้าเข้าลิงค์ไปดูแล้วมันแปลกๆ"
         }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ทำไมต้องให้ถ่ายรูปบัตรประชานชนกับบัตรเครดิตไปด้วยก็ไม่รู้ "
+        },  
         {
             "ID": "chat-02",
             "OnwerName": "my",
@@ -25,9 +39,20 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าก้อยทำถูกแล้วค่ะ ถ้าส่งไปอาจจะเป็นช่องทางให้มิจฉาชีพเอาข้อมูลของป้าไปใช้ทำอย่างอื่นก็ได้นะคะ",
+            "Content": "ป้าก้อยทำถูกแล้วค่ะ",
             "LinkType": "dialog",
-            "FileName": "story1-9-2"
+            "FileName": "story1-12-2"
+           
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ถ้าส่งไปอาจจะเป็นช่องทางให้มิจฉาชีพเอาข้อมูลของป้าไปใช้ทำอย่างอื่นก็ได้นะคะ",
+            "LinkType": "page",
+            "FileName": "T1-2"
            
         }
 

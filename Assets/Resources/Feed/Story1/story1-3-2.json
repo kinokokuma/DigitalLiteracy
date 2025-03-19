@@ -7,11 +7,6 @@
             "ChatSide": "right",
             "DialogImage":[
             {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :true
-            },
-            {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :false
@@ -24,41 +19,40 @@
             "ChatSide": "right",
             "DialogImage":[
             {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :true
-            },
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "มานี่มา ป้าให้ขนมไปกินนะลูก"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :false
             }
             ],
-            "Content": "มานี่มา ป้าให้ขนมไปกินนะลูก แล้วก็ฝากผลไม้ไปให้แม่ด้วยนะ"
+            "Content": "แล้วก็ฝากผลไม้ไปให้แม่ด้วยนะ"
         },
         {
             "OnwerName": "เจน",
             "ChatSide": "left",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
+
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :true
             }
             ],
-            "Content": "ขอบคุณค่ะป้าก้อย"
-        },
-        {      
-            "ChatSide": "mid",  
-            "ChatType": "Normal",
-            "Content" : "หลายวันต่อมา",
-            "LinkType": "chat",
-            "FileName" : "story1-4"
+            "Content": "ขอบคุณค่ะป้าก้อย",
+            "ChatType":"Normal",
+            "LinkType": "dialog",
+            "FileName" : "story1-9-2"
         }
     ]
 }

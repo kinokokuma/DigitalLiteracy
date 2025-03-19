@@ -6,59 +6,123 @@
             "ChatSide": "mid",
             "DialogImage":[
             {
-                "Image":"image/keaw",
-                "ImageSide":"right",
+                "Image":"image/jane",
+                "ImageSide":"left",
                 "Active" :false
-            },
+            }
+            ],
+            "Content": "“เงินออก: -3,000 บาท จากบัญชี xx5769 เมื่อ 2/1/2568 เวลา 11:15 น”"
+        },{
+            "ChatSide": "mid",
+            "DialogImage":[
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :false
             }
             ],
-            "Content": "“เงินออก: -3,000 บาท จากบัญชี xx5769 เมื่อ 8/1/2568 เวลา 11:15 น”\n“เงินออก: -9,000 บาท จากบัญชี xx5769 เมื่อ 8/1/2568 เวลา 11:16 น.”\n“เงินออก: -10,000 บาท จากบัญชี xx5769 เมื่อ 8/1/2568 เวลา 11:17 น.”\n“เงินออก: -30,000 บาท จากบัญชี xx5769 เมื่อ 8/1/2568 เวลา 11:18 น.”\n“เงินออก: -17,000 บาท จากบัญชี xx5769 เมื่อ 8/1/2568 เวลา 11:19 น.”\n“เงินออก: -25,000 บาท จากบัญชี xx5769 เมื่อ 8/1/2568 เวลา 11:21 น.”"
-        },{
+            "Content": "“เงินออก: -9,000 บาท จากบัญชี xx5769 เมื่อ 2/1/2568 เวลา 11:16 น.”"
+        },
+        {
+            "ChatSide": "mid",
+            "DialogImage":[
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "“เงินออก: -10,000 บาท จากบัญชี xx5769 เมื่อ 2/1/2568 เวลา 11:17 น.”"
+        },
+        {
+            "ChatSide": "mid",
+            "DialogImage":[
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "“เงินออก: -30,000 บาท จากบัญชี xx5769 เมื่อ 2/1/2568 เวลา 11:18 น.”"
+        },
+        {
+            "ChatSide": "mid",
+            "DialogImage":[
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "“เงินออก: -17,000 บาท จากบัญชี xx5769 เมื่อ 2/1/2568 เวลา 11:19 น.”"
+        },
+        {
+            "ChatSide": "mid",
+            "DialogImage":[
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "“เงินออก: -25,000 บาท จากบัญชี xx5769 เมื่อ 2/1/2568 เวลา 11:21 น.”"
+        },
+        
+        {
             "OnwerName": "ป้าก้อย",
             "ChatSide": "right",
             "DialogImage":[
             {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :true
-            },
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "เฮ้ย! ทำไมมีแจ้งเตือนเงินออกจากบัญชีล่ะ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :false
             }
             ],
-            "Content": "เฮ้ย! ทำไมมีแจ้งเตือนเงินออกจากบัญชีล่ะ ไม่นะ! เงินที่ฉันเก็บมา!"
+            "Content": "ไม่นะ! เงินที่ฉันเก็บมา!"
         },
         {
             "OnwerName": "เจน",
             "ChatSide": "left",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
+            
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :true
             }
             ],
-            "Content": "มิจฉาชีพจริงด้วย! ป้าก้อยคะ ก่อนอื่นเราควรจะติดต่อธนาคารเพื่อระงับบัญชีก่อน แล้วไปแจ้งตำรวจกันนะคะ"
-        },{
+            "Content": "มิจฉาชีพจริงด้วย!"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ก่อนอื่นเราควรจะติดต่อธนาคารเพื่อระงับบัญชีก่อน แล้วไปแจ้งตำรวจกันนะคะ"
+        },
+        {
             "OnwerName": "ป้าก้อย",
             "ChatSide": "right",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :true
-            },
+
             {
                 "Image":"image/jane",
                 "ImageSide":"left",

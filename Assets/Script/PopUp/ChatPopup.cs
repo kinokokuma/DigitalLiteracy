@@ -61,7 +61,8 @@ public class ChatPopup : BasePopUp
 
     [SerializeField]
     private GameObject mockReload;
-
+    [SerializeField]
+    private GameObject home;
     public void Start()
     {
         allChatButton.interactable = false;
@@ -81,8 +82,15 @@ public class ChatPopup : BasePopUp
 
 
 
-    public IEnumerator ShowChat(ChatData data,bool muteSound)
+    public IEnumerator ShowChat(ChatData data,bool muteSound,bool showLineHome)
     {
+        if (showLineHome)
+        {
+            home.SetActive(true);
+            yield return new WaitForSeconds(3);
+            home.SetActive(false);
+        }
+
         oldIndex = 0;
         chatIndex = 0;
         this.data = data;
@@ -166,15 +174,16 @@ public class ChatPopup : BasePopUp
                 }
                 else
                 {
-
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้าก้อย", $"{UserData.UserSex}{UserData.UserName}");
                     if (data.DataDetail[chatIndex].OnwerName == "my" && data.DataDetail[chatIndex].DelayTime !=0)
                     {
                         if(data.DataDetail[chatIndex].DelayTime == 1)
                         {
                             data.DataDetail[chatIndex].DelayTime = 3;
                         }
-                        if(UserData.UserSex == "ชาย")
+                        if(UserData.UserSex == "ลุง")
                         {
+                            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้า", "ลุง");
                             data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ค่ะ", "ครับ");
                             data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("คะ", "ครับ");
                         }
@@ -407,7 +416,7 @@ public class ChatPopup : BasePopUp
         dataDetail.OnwerName = "my";
         dataDetail.Icon = string.Empty;
         dataDetail.Content = data.Content.Replace("{0}", choiceText.Path);
-        if (UserData.UserSex == "ชาย")
+        if (UserData.UserSex == "ลุง")
         {
             dataDetail.Content = dataDetail.Content.Replace("ค่ะ", "ครับ");
             dataDetail.Content = dataDetail.Content.Replace("คะ", "ครับ");

@@ -10,7 +10,13 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าส่งไปตั้งแต่เมื่อวานแล้วลูก เขาบอกว่าถ้าไม่ยืนยันตัวตนภายใน 24 ชม. เขาจะให้คนอื่นแทน"
+            "Content": "ป้าส่งไปตั้งแต่เมื่อวานแล้วลูก"
+        }, {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "เขาบอกว่าถ้าไม่ยืนยันตัวตนภายใน 24 ชม. เขาจะให้คนอื่นแทน"
         }, 
         {
             "ID": "chat-02",
@@ -28,8 +34,8 @@
             "ChatType": "Normal",
             "DelayTime": 3,
             "Content": "ปกติถ้าให้ยืนยันตัวตนเขาไม่จำเป็นต้องถ่ายด้านหลังไปนะคะ",
-            "LinkType": "dialog",
-            "FileName": "story1-9-1"
+            "LinkType": "page",
+            "FileName": "T1-1"
            
         }
 

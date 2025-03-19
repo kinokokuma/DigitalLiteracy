@@ -1,33 +1,23 @@
 {
     "ID": "chat-01",
-    "BG": "tv",
+    "BG": "house",
     "DataDetail": [
-        {
+{
             "OnwerName": "ป้าก้อย",
             "ChatSide": "right",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :true
-            },
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :false
             }
             ],
-            "Content": "ก็รหัสที่เป็นวันเกิดป้าไง ป้าเคยเปลี่ยนแล้วแต่จำไม่ได้เลยกลับมาใช้รหัสเดิมตั้งแต่ปีก่อนแล้วลูก"
+            "Content": "  ป้าไม่ได้เปลี่ยนหรอก ป้ากลัวจําไม่ได้ลูก"
         },
         {
             "OnwerName": "เจน",
             "ChatSide": "left",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
@@ -41,10 +31,20 @@
             "ChatSide": "right",
             "DialogImage":[
             {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :true
-            },
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "ChatType": "Normal",
+            "Content": "ป้ากลัวป้าจำไม่ได้นี่ลูก",
+            "LinkType": "page",
+            "FileName" : "T1"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
@@ -52,9 +52,9 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "ป้ากลัวป้าจำไม่ได้นี่ลูก แย่แล้ว หนูเจนป้าจะทำยังไงดี",
-            "LinkType": "dialog",
-            "FileName" : "story1-12-2"
+            "Content": "หนูเจนป้าจะทำยังไงดี",
+            "LinkType": "page",
+            "FileName" : "T1"
         }
         
     ]

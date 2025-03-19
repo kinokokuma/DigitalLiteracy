@@ -65,7 +65,7 @@ public class UserData : MonoBehaviour
             nextPage.interactable = true;
         }
         UserName = inputName.text;
-        UserSex = dropdownSex.captionText.text;
+        UserSex = dropdownSex.captionText.text=="ชาย"?"ลุง":"ป้า";
 
         if (Story == "Story1")
         {

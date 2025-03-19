@@ -25,7 +25,7 @@ public class SeePagePopup : BasePopUp
     }
     private void onClick()
     {
-        manager.OpenChat(nexStoryID);
+        manager.OpenChat(nexStoryID,true);
         TimeRecord.Instance.SaveRecord("web1", "ออกจากเว็บ", startTime);
         gameObject.SetActive(false);
             

@@ -6,11 +6,7 @@
             "OnwerName": "ป้าก้อย",
             "ChatSide": "right",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :true
-            },
+            
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
@@ -23,28 +19,46 @@
             "OnwerName": "ป้าก้อย",
             "ChatSide": "right",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :true
-            },
+            
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :false
             }
             ],
-            "Content": "เออจริงสิ เมื่อวันก่อนป้าเห็นแม่เราลงว่าได้เกรด 4.00 นี่ เก่งมากเลย"
+            "Content": "เออจริงสิ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "เมื่อวันก่อนป้าเห็นแม่เราลงว่าได้เกรด 4.00 นี่"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "เก่งมากเลย"
         },
         {
             "OnwerName": "เจน",
             "ChatSide": "left",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
+            
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
@@ -56,11 +70,7 @@
         {      
             "ChatSide": "mid",  
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
+
             {
                 "Image":"image/jane",
                 "ImageSide":"left",

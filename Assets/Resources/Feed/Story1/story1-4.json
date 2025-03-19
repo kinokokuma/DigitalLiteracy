@@ -21,17 +21,33 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าก้อยคะ คุณแม่ฝากขอบคุณเรื่องผลไม้เมื่อวันก่อนด้วยค่ะ",
+            "Content": "ป้าก้อยคะ",
             "PostImage": "",
             "LinkToPageName": ""
         },
-        
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "คุณแม่ฝากขอบคุณเรื่องผลไม้เมื่อวันก่อนด้วยค่ะ",
+            "PostImage": "",
+            "LinkToPageName": ""
+        },
         {
             "ID": "chat-02",
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "พูดถึงเรื่องเมื่อ วันก่อนป้าก็โชคดีเหมือนกัน มีคนส่งข้อความมาหาป้าว่าป้าเป็นผู้โชคดีได้รางวัลใหญ่ด้วยนะลูก"
+            "Content": "พูดถึงเรื่องเมื่อวันก่อนป้าก็โชคดีเหมือนกัน"
+        }, 
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "มีคนส่งข้อความมาหาป้าว่าป้าเป็นผู้โชคดีได้รางวัลใหญ่ด้วยนะลูก"
         }, 
         {
             "ID": "chat-02",
@@ -39,8 +55,15 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "โอ้โห ไหนคะป้าก้อย เจนขอดูหน่อยได้ไหมคะว่าได้อะไร"
-        },       
+            "Content": "โอ้โห ไหนคะป้าก้อย"
+        },{
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "เจนขอดูหน่อยได้ไหมคะว่าได้อะไร"
+        },        
         {
             "ID": "chat-02",
             "OnwerName": "my",

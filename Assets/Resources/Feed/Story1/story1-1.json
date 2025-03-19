@@ -10,27 +10,32 @@
             "OnwerName": "เจน",
             "ChatSide": "left",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
+            
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
                 "Active" :true
             }
             ],
-            "Content": "ป้าก้อย สวัสดีปีใหม่นะคะ แม่กับเจนเอากระเช้าผลไม้มาฝากค่ะ"
+            "Content": "ป้าก้อย สวัสดีปีใหม่นะคะ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "แม่กับเจนเอากระเช้าผลไม้มาฝากค่ะ"
         },
         {      
             "ChatSide": "mid",  
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
+            
             {
                 "Image":"image/jane",
                 "ImageSide":"left",

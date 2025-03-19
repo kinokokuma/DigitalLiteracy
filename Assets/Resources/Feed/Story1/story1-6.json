@@ -21,7 +21,16 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "กรอกยังไงเหรอคะป้า เขาส่งข้อความมาถามเหรอคะ",
+            "Content": "กรอกยังไงเหรอคะป้า",
+            "PostImage": "",
+            "LinkToPageName": ""
+        }, {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "เขาส่งข้อความมาถามเหรอคะ",
             "PostImage": "",
             "LinkToPageName": ""
         }, 
@@ -30,10 +39,19 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "โอ้ย ไม่ใช่หรอกหนู เขาส่งลิงค์มาให้ป้ากรอกอะไรไม่รู้เต็มเลย",
+            "Content": "โอ้ย ไม่ใช่หรอกหนู",
             "PostImage": "",
             "LinkToPageName": ""
-        },       
+        },
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "เขาส่งลิงค์มาให้ป้ากรอกอะไรไม่รู้เต็มเลย",
+            "PostImage": "",
+            "LinkToPageName": ""
+        },          
         {
             "ID": "chat-02",
             "OnwerName": "เจน",

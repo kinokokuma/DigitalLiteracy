@@ -1,16 +1,11 @@
 {
     "ID": "chat-01",
-    "BG": "tv",
+    "BG": "house",
     "DataDetail": [
         {
             "OnwerName": "เจน",
             "ChatSide": "left",
             "DialogImage":[
-            {
-                "Image":"image/keaw",
-                "ImageSide":"right",
-                "Active" :false
-            },
             {
                 "Image":"image/jane",
                 "ImageSide":"left",
@@ -18,11 +13,25 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "ป้าก้อยทำถูกแล้วค่ะ ไม่อย่างนั้นถ้ามีคนเก็บไปแล้วเขารู้รหัสของป้าแล้วเอาไปกดเงินคงจะแย่แน่เลย",
+            "Content": "ป้าก้อยทำถูกแล้วค่ะ",
+            "LinkType": "dialog",
+            "FileName" : "story1-11-2"
+            
+        },{
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "ChatType": "Normal",
+            "Content": "ไม่อย่างนั้นถ้ามีคนเก็บไปแล้วเขารู้รหัสของป้าแล้วเอาไปกดเงินคงจะแย่แน่เลย",
             "LinkType": "dialog",
             "FileName" : "story1-11-2"
             
         }
-        
     ]
 }

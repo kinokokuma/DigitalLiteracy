@@ -51,6 +51,10 @@ public class DialogPopup : BasePopUp
     private ChatChoice imageChoice;
     [SerializeField]
     private GameObject reload;
+
+    [SerializeField]
+    private TMP_Text allDialogText;
+    private string allDialog;
     void Start()
     {
        /* rightChat.SetActive(false);
@@ -120,15 +124,16 @@ public class DialogPopup : BasePopUp
             }
             else
             {
-
-                if (data.DataDetail[chatIndex].OnwerName == "my" && data.DataDetail[chatIndex].DelayTime != 0)
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้าก้อย", $"{UserData.UserSex}{UserData.UserName}");
+                if (data.DataDetail[chatIndex].ChatSide == "right")
                 {
                     if (data.DataDetail[chatIndex].DelayTime == 1)
                     {
                         data.DataDetail[chatIndex].DelayTime = 3;
                     }
-                    if (UserData.UserSex == "ชาย")
+                    if (UserData.UserSex == "ลุง")
                     {
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้า", "ลุง");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ค่ะ", "ครับ");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("คะ", "ครับ");
                     }
@@ -154,7 +159,8 @@ public class DialogPopup : BasePopUp
                     oldIndex = chatIndex;
                     //Reload();
                 }
-
+                string front = data.DataDetail[chatIndex].ChatSide == "right" ? "คุณ " : data.DataDetail[chatIndex].ChatSide == "left" ? data.DataDetail[chatIndex].OnwerName : "คำบรรยาย";
+                allDialogText.text += front + $" : {data.DataDetail[chatIndex].Content}\n\n";
             }
             //Reload();
             leftChatImage.gameObject.SetActive(false);
@@ -205,7 +211,7 @@ public class DialogPopup : BasePopUp
             {
                 rightChat.SetActive(true);
 
-                rightChatName.text = data.DataDetail[chatIndex].OnwerName;
+                rightChatName.text = data.DataDetail[chatIndex].OnwerName=="ป้าก้อย"?"คุณ": data.DataDetail[chatIndex].OnwerName;
                 rightChatText.text = data.DataDetail[chatIndex].Content;
             }
             else
@@ -228,7 +234,7 @@ public class DialogPopup : BasePopUp
                     print("check ID : " + ID + " " + newData.ID);
                     {
                         print(data.DataDetail[data.DataDetail.Length - 1].FileName);
-                        manager.OpenChat(data.DataDetail[data.DataDetail.Length - 1].FileName);
+                        manager.OpenChat(data.DataDetail[data.DataDetail.Length - 1].FileName,true);
                     }
                     gameObject.SetActive(false);
                 }
@@ -263,7 +269,7 @@ public class DialogPopup : BasePopUp
             print("check ID : " + ID + " " + newData.ID);
  
             yield return new WaitForSeconds(3);
-            manager.OpenChat(choiceText.FileName);
+            manager.OpenChat(choiceText.FileName, true);
             gameObject.SetActive(false);
             
         }

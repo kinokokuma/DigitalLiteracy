@@ -59,7 +59,7 @@ public class ChatNormal : ChatObjectBase
         {
             //content.alignment = TextAlignmentOptions.MidlineRight;
             layOutGroup.childAlignment = TextAnchor.UpperRight;
-            contentParent.color = new Color32(85, 144, 255,255);
+            contentParent.color = new Color32(108, 229, 122,255);
             if (!muteSound)
             {
                 SoundManager.Instance.PlaySound(SoundID.chatPop, 0.5f);
@@ -183,7 +183,7 @@ public class ChatNormal : ChatObjectBase
                 text = text.Replace("{player}", UserData.UserName);
                 if (data.OnwerName == "my")
                 {
-                    if (UserData.UserSex == "ชาย")
+                    if (UserData.UserSex == "ลุง")
                     {
                         text = text.Replace("ค่ะ", "ครับ");
                         text = text.Replace("คะ", "ครับ");
