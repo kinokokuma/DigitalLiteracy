@@ -10,7 +10,7 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "เขาให้ป้าไปกรอกข้อมูลเพื่อยืนยันตัวตนด้วยนะ",
+            "Content": "เขาให้{type}ไปกรอกข้อมูลเพื่อยืนยันตัวตนด้วยนะ",
             "PostImage": "",
             "LinkToPageName": ""
         },
@@ -21,7 +21,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "กรอกยังไงเหรอคะป้า",
+            "Content": "กรอกยังไงเหรอคะ{type}",
             "PostImage": "",
             "LinkToPageName": ""
         }, {
@@ -48,7 +48,7 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "เขาส่งลิงค์มาให้ป้ากรอกอะไรไม่รู้เต็มเลย",
+            "Content": "เขาส่งลิงค์มาให้{type}กรอกอะไรไม่รู้เต็มเลย",
             "PostImage": "",
             "LinkToPageName": ""
         },          

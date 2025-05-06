@@ -41,17 +41,6 @@
                 "Active" :false
             }
             ],
-            "Content": "เฮ้ย! ทำไมมีแจ้งเตือนเงินออกจากบัญชีล่ะ ไม่นะ! เงินที่ฉันเก็บมา!"
-        },{
-            "OnwerName": "ป้าก้อย",
-            "ChatSide": "right",
-            "DialogImage":[
-            {
-                "Image":"image/jane",
-                "ImageSide":"left",
-                "Active" :false
-            }
-            ],
             "ChatType": "Normal",
             "Content": "เฮ้ย! โชคดีนะที่ไม่ได้ให้ข้อมูลไป",
             "LinkType": "page",

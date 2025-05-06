@@ -125,6 +125,7 @@ public class DialogPopup : BasePopUp
             else
             {
                 data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้าก้อย", $"{UserData.UserSex}{UserData.UserName}");
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("{type}", UserData.UserSex);
                 if (data.DataDetail[chatIndex].ChatSide == "right")
                 {
                     if (data.DataDetail[chatIndex].DelayTime == 1)

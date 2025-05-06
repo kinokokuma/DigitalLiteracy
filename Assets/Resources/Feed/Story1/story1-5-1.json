@@ -1,0 +1,28 @@
+{
+    "ID": "chat-02",
+    "ChatName": "เจน",
+    "Icon": [
+        "Image/Story1/profileJ"
+    ],
+    "DataDetail": [
+        {
+            "ID": "chat-02",
+            "OnwerName": "my",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "{type}เข้าไปดูหน้าเฟสเขาแล้ว คนกดโกรธเยอะมากดูไม่ค่อยน่าเชื่อถือเลย"
+        }
+        ,
+        {
+            "ID": "chat-02",
+            "OnwerName": "เจน",
+            "Icon": "Image/Story1/profileJ",
+            "ChatType": "Normal",
+            "DelayTime": 3,
+            "Content": "ค่ะป้าก้อย ถ้าไม่น่าเชื่อถือก็อย่าไปสนใจเลยค่ะ",
+            "LinkType": "chat",
+            "FileName": "story1-6"
+        }
+        
+    ]
+}

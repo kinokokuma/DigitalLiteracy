@@ -10,13 +10,13 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าเข้าไปดูหน้าเฟสเขาแล้ว คนกดไลค์เยอะเลย"
+            "Content": "{type}เข้าไปดูหน้าเฟสเขาแล้ว คนกดไลค์เยอะเลย"
         },{
             "ID": "chat-02",
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "โพสต์โฆษณาบ่อยด้วย แต่ป้าไม่ได้ดูละเอียดมาก"
+            "Content": "โพสต์โฆษณาบ่อยด้วย แต่{type}ไม่ได้ดูละเอียดมาก"
         },
         
         {
@@ -25,7 +25,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ค่ะป้าก้อย ถ้าเขาแอคทีฟก็ดูน่าเชื่อถืออยู่นิดหน่อยนะคะ",
+            "Content": "ค่ะป้าก้อย ถ้าเขาโพสบ่อยๆก็ดูน่าเชื่อถืออยู่นิดหน่อยนะคะ",
             "LinkType": "chat",
             "FileName": "story1-6"
         }

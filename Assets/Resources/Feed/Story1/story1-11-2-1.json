@@ -12,7 +12,7 @@
                 "Active" :false
             }
             ],
-            "Content": "  ป้าไม่ได้เปลี่ยนหรอก ป้ากลัวจําไม่ได้ลูก"
+            "Content": "  {type}ไม่ได้เปลี่ยนหรอก {type}กลัวจําไม่ได้ลูก"
         },
         {
             "OnwerName": "เจน",
@@ -37,7 +37,7 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "ป้ากลัวป้าจำไม่ได้นี่ลูก",
+            "Content": "{type}กลัว{type}จำไม่ได้นี่ลูก",
             "LinkType": "page",
             "FileName" : "T1"
         },
@@ -52,7 +52,7 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "หนูเจนป้าจะทำยังไงดี",
+            "Content": "หนูเจน{type}จะทำยังไงดี",
             "LinkType": "page",
             "FileName" : "T1"
         }

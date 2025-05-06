@@ -11,7 +11,7 @@
             "Icon": "",
             "ChatType": "Time",
             "DelayTime": 0,
-            "Content": "5 ,ม.ค. 2025 10:20",
+            "Content": "5 ม.ค. 2025, 10:20",
             "PostImage": "",
             "LinkToPageName": ""
         },
@@ -40,14 +40,14 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "พูดถึงเรื่องเมื่อวันก่อนป้าก็โชคดีเหมือนกัน"
+            "Content": "พูดถึงเรื่องเมื่อวันก่อน{type}ก็โชคดีเหมือนกัน"
         }, 
         {
             "ID": "chat-02",
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "มีคนส่งข้อความมาหาป้าว่าป้าเป็นผู้โชคดีได้รางวัลใหญ่ด้วยนะลูก"
+            "Content": "มีคนส่งข้อความมาหา{type}ว่า{type}เป็นผู้โชคดีได้รางวัลใหญ่ด้วยนะลูก"
         }, 
         {
             "ID": "chat-02",
@@ -70,7 +70,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าจำได้ว่าเราต้องเช็คก่อนว่าน่าเชื่อถือรึเปล่า"
+            "Content": "{type}จำได้ว่าเราต้องเช็คก่อนว่าน่าเชื่อถือรึเปล่า"
         }, 
         {
             "ID": "chat-02",

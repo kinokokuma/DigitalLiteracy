@@ -484,6 +484,7 @@ MonoBehaviour:
   ID: T1-2
   startTime: 0
   nextDataName: story1-12-2
+  popupType: 1
 --- !u!114 &3665826889214746592
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -25,7 +25,7 @@
                 "Active" :false
             }
             ],
-            "Content": "มานี่มา ป้าให้ขนมไปกินนะลูก"
+            "Content": "มานี่มา {type}ให้ขนมไปกินนะลูก"
         },
         {
             "OnwerName": "ป้าก้อย",
@@ -52,8 +52,8 @@
             ],
             "Content": "ขอบคุณค่ะป้าก้อย",
             "ChatType":"Normal",
-            "LinkType": "dialog",
-            "FileName" : "story1-9-2"
+            "LinkType": "page",
+            "FileName" : "T0"
         }
     ]
 }
