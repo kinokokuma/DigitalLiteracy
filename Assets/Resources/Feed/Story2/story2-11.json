@@ -1,0 +1,80 @@
+{
+  "ID": "chat-01",
+  "BG": "house",
+  "DataDetail": [
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ร้านนี้ราคาถูกก็จริง "
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แต่เหมือนเป็นมิจฉาชีพเลย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ซื้อจากร้านอื่นดีกว่า"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "นี่ไงร้าน Official"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ราคาแพงกว่าเยอะเลย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แต่ถ้ามีปัญหาก็เคลมของได้นี่นา ?",
+      "LinkType": "dialog",
+      "FileName": "story2-12"
+    }
+  ]
+}

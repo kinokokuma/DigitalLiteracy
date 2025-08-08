@@ -1,0 +1,356 @@
+{
+  "ID": "chat-01",
+  "BG": "res",
+  "DataDetail": [
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "จริงด้วย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ชื่อไม่เหมือนกันนี่นา"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ป้าก้อยคะ ! พี่คะ !"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ดูที่ QR Code ของร้านสิคะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เหมือนมีสติกเกอร์แปะอยู่เลยค่ะ"
+    },
+    {
+      "OnwerName": "พนักงาน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "จริงด้วยครับ"
+    },
+    {
+      "OnwerName": "พนักงาน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "พอแกะออกมา"
+    },
+    {
+      "OnwerName": "พนักงาน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "เป็นสติกเกอร์แปะทับ QR Code ของร้านจริง ๆ ด้วยครับ"
+    },
+    {
+      "OnwerName": "พนักงาน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "ผมไปแจ้งเจ้าของร้านสักครู่นะครับ"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เกิดอะไรขึ้น !!??"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "QR Code ปลอมงั้นเหรอ"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เป็นไปได้ยังไง !!?"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ป้าแสกนจ่ายค่าข้าวไปแล้ว"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แต่เงินไม่เข้าบัญชีร้าน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "น้องพนักงานเลยช่วยเช็ค"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "แล้วเจอว่า QR Code ที่แสกนไป"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "มันเป็นของคนอื่น"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ที่ไม่ใช่ของร้านน่ะสิคะ"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "เข้าใจเหตุการณ์แล้วค่ะ"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "งั้นทางร้านขอความร่วมมือ"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "ให้คุณลูกค้าไปลงบันทึกประจำวันเพื่อเป็นพยาน"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "จะได้แจ้งธนาคารให้อายัดยอดเงินนั้นได้ไหมคะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ได้จ้ะ"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ขอบคุณนะคะ"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เพื่อเป็นการขอโทษ"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ค่าอาหารของคราวนี้"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ทางร้านจะไม่คิดเงิน"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "แล้วก็ถ้ามาคราวหน้า"
+    },
+    {
+      "OnwerName": "เจ้าของร้าน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/owner",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ทางร้านจะให้ส่วนลด 50% นะคะ",
+        "LinkType": "page",
+      "FileName": "end"
+    }
+  ]
+}

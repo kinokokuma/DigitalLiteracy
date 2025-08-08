@@ -1,0 +1,68 @@
+{
+  "ID": "chat-01",
+  "BG": "house",
+  "DataDetail": [
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ในที่สุดก็ถึงสักที"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เฮ้อ เหนื่อยมากเลย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เรามาแกะกล่องกันดีกว่าหนูเจน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ป้าวานหนูต่อสายแทนเครื่องเดิมหน่อยนะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": " left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ได้เลยค่ะ ป้าก้อย ♡ !",
+      "LinkType": "dialog",
+      "FileName": "story2-16-2"
+    }
+  ]
+}

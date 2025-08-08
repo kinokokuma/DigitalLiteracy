@@ -1,0 +1,47 @@
+{
+    "ID": "chat-01",
+    "BG": "house",
+    "DataDetail": [
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ร้านที่มีคะแนนรีวิวเยอะ ๆ แต่ไม่มีคอมเมนต์"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "เจนแนะนำให้ป้าก้อยเลือกจากร้านที่มีรีวิวและมีรูปภาพ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "แล้วก็คอมเมนต์ที่เกี่ยวกับสินค้าจริงนะคะ",
+            "LinkType": "dialog",
+            "FileName" : "story2-4-4"
+        }
+    ]
+}

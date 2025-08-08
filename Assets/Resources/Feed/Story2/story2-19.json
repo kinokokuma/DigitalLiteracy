@@ -1,0 +1,55 @@
+{
+  "ID": "chat-01",
+  "BG": "res",
+  "DataDetail": [
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ป้าก้อยคะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ป้าก้อยอย่าลืมเช็ครายละเอียดในการโอนด้วยนะคะ"
+    },
+    {
+      "ChatSide": "mid",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Choice": [
+        {
+          "ID": "001",
+          "Path": "เช็ครายละเอียด ชื่อผู้รับ และจำนวนเงิน",
+          "LinkType": "dialog",
+          "FileName": "story2-20-1"
+        },
+        {
+          "ID": "001",
+          "Path": "ไม่เช็ครายละเอียด",
+          "LinkType": "dialog",
+          "FileName": "story2-20-2"
+        }
+      ],
+      "Content": "เช็ครายละเอียดในการโอนไหม"
+    }
+  ]
+}

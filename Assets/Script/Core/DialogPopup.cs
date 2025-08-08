@@ -71,7 +71,7 @@ public class DialogPopup : BasePopUp
         this.data = data;
         if (data.BG != string.Empty)
         {
-            print($"Image/{UserData.Story}/{data.BG}");
+
             var poseTexture = Resources.Load<Texture2D>($"Image/{UserData.Story}/{data.BG}");
             BG.sprite = Sprite.Create(poseTexture, new Rect(0.0f, 0.0f, poseTexture.width, poseTexture.height), new Vector2(0.5f, 0.5f), 100.0f);
         }
@@ -99,6 +99,7 @@ public class DialogPopup : BasePopUp
             {
                 //nextChat.gameObject.SetActive(false);
             }
+
             if (data.DataDetail[chatIndex].Choice != null)
             {
 
@@ -124,7 +125,8 @@ public class DialogPopup : BasePopUp
             }
             else
             {
-                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้าก้อย", $"{UserData.UserSex}{UserData.UserName}");
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้า", $"{UserData.UserSex}");
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ก้อย", $"{UserData.UserName}");
                 data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("{type}", UserData.UserSex);
                 if (data.DataDetail[chatIndex].ChatSide == "right")
                 {
@@ -152,7 +154,7 @@ public class DialogPopup : BasePopUp
                 }
                 else
                 {
-                    if (data.DataDetail[chatIndex].OnwerName == "ซี" && UserData.UserSex == "หญิง")
+                    if ( UserData.UserSex == "หญิง")
                     {
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ค่ะ", "ครับ");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("คะ", "ครับ");
@@ -163,6 +165,7 @@ public class DialogPopup : BasePopUp
                 string front = data.DataDetail[chatIndex].ChatSide == "right" ? "คุณ " : data.DataDetail[chatIndex].ChatSide == "left" ? data.DataDetail[chatIndex].OnwerName : "คำบรรยาย";
                 allDialogText.text += front + $" : {data.DataDetail[chatIndex].Content}\n\n";
             }
+
             //Reload();
             leftChatImage.gameObject.SetActive(false);
             rightChatImage.gameObject.SetActive(false);
@@ -220,16 +223,20 @@ public class DialogPopup : BasePopUp
                 midChat.SetActive(true);
                 midChatText.text = data.DataDetail[chatIndex].Content;
             }
-
+            if (data.DataDetail[chatIndex].Sound == "noti")
+            {
+                SoundManager.Instance.PlaySound(SoundID.newChat,3);
+            }
             chatIndex++;
         }
         else {
-            print(data.DataDetail[chatIndex - 1].ChatType);
-            if (data.DataDetail[chatIndex - 1].ChatType == "Normal")
+            print(chatIndex);
+            print(data.DataDetail[data.DataDetail.Length - 1].LinkType);
+            if (data.DataDetail[data.DataDetail.Length - 1].ChatType == "Normal" || data.DataDetail[data.DataDetail.Length - 1].ChatType == string.Empty)
             {
                 print("x2");
                 manager.NextFileName = manager.GetSpPath(data.DataDetail[data.DataDetail.Length - 1].FileName);
-                if (data.DataDetail[chatIndex - 1].LinkType == "chat")
+                if (data.DataDetail[data.DataDetail.Length - 1].LinkType == "chat")
                 {
                     ChatData newData = manager.ReadChatData($"Feed/{UserData.Story}/{data.DataDetail[data.DataDetail.Length - 1].FileName}");
                     print("check ID : " + ID + " " + newData.ID);
@@ -239,11 +246,11 @@ public class DialogPopup : BasePopUp
                     }
                     gameObject.SetActive(false);
                 }
-                else if (data.DataDetail[chatIndex - 1].LinkType == "dialog")
+                else if (data.DataDetail[data.DataDetail.Length - 1].LinkType == "dialog")
                 {
                     manager.OpenDialog(data.DataDetail[data.DataDetail.Length - 1].FileName);
                 }
-                else if (data.DataDetail[chatIndex - 1].LinkType != "" || data.DataDetail[chatIndex - 1].LinkType != null)
+                else if (data.DataDetail[data.DataDetail.Length - 1].LinkType != "" || data.DataDetail[data.DataDetail.Length - 1].LinkType != null)
                 {
                     manager.CreatePopup(data.DataDetail[data.DataDetail.Length - 1].FileName);
                     // manager.gopageButton.SetActive(true);

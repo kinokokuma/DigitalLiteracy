@@ -1,0 +1,213 @@
+{
+  "ID": "chat-01",
+  "BG": "house",
+  "DataDetail": [
+
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ในที่สุดของก็มาส่งซักที "
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "รอแป๊ปเดียวเอง"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "สมัยนี้อะไร ๆ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ก็สบายดีจริง ๆ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "อ้าว !! ป้าก้อยสั่งของมาเหรอคะ ?"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "กล่องใหญ่เชียว"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "วันก่อนเข็มขัดของคุณลุงเพิ่งมาส่งเองนี่นา"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ก็ป้าน่ะ เห็นว่าทีวีที่บ้านมันเก่าแล้ว"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เลยสั่งให้เขาเอามาส่ง"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ป้าจะได้ไม่ต้องไปซื้อในเมืองน่ะหนูเจน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ขับรถไปป้าเหนื่อย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ลุงก็ไม่ว่าง"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ต้องเฝ้าสวน"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "งั้นเรามาแกะกล่องกันดูดีกว่าค่ะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เดี๋ยวเจนจะได้ช่วยยกไปวางบนบ้านนะคะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ได้เลยหนูเจน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ขอบใจมากนะลูก",
+      "LinkType": "dialog",
+      "FileName": "story2-14-2"
+    }
+  ]
+}

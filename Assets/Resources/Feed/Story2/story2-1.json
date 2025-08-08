@@ -1,0 +1,429 @@
+{
+    "ID": "chat-01",
+    "BG": "house",
+    "DataDetail": [
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ว้าว! อันนั้นก็อยากได้ "
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "อ้าว….หนูเจนมานั่งทำอะไรตรงนี้ล่ะ ?"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ไม่ร้อนเหรอเรา ?"
+        },{
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ไม่ร้อนหรอกค่ะ ป้าก้อย〜"
+        },{
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "หน้าบ้านป้าก้อยมีต้นไม้เยอะจะตาย"
+        },{
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ลมเย็นจนเจนจะหลับแล้ว"
+        },{
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "เจนกำลังชอปปิ้งออนไลน์อยู่ค่ะคุณป้า"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ชอปปิ้งเหรอ…"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "อ๋อ ！ที่ซื้อของในแอพฯ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "แล้วเขาจะเอามาส่งที่บ้านใช่ไหมหนู?"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ใช่แล้วค่ะ ป้าก้อย"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "เจนกำลังจะสั่งของจาก Shuppy"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ให้ไปส่งที่บ้านเลยค่ะ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ของในนี้บางอย่างราคาถูกกว่าไปซื้อในห้างอีกนะคะ"
+        }
+        ,
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "หนูเจนสอนป้าหน่อยสิ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ว่ามันใช้ยังไงป้าก็อายุอานามเยอะแล้ว"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ไม่ค่อยอยากขับรถเข้าไปซื้อในเมืองเท่าไหร่"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ให้เขาเอามาส่งที่บ้านก็ดี"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "สะดวกกว่าด้วย"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ได้เลยค่ะ ป้าก้อย"
+        }
+        ,
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ก่อนอื่นเลย ป้าก้อยอยากจะซื้ออะไรคะ ?"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "อืม………"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ป้าอยากได้ของขวัญให้ลุงน่ะ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "จะถึงวันเกิดลุงแล้ว"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ซื้อเข็มขัดหนังให้ลุงสักเส้นดีกว่าเนอะ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ได้เลยค่ะ ป้าก้อย"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "งั้นเราก็ต้องพิมพ์ค้นหาไปว่า “เข็มขัดหนัง” นะคะ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "โอ้โห!! ร้านขายเข็มขัดเยอะแยะเลย"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ป้าจะเลือกร้านยังไงดีล่ะหนูเจน ?"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "เจนมีวิธีเลือกง่าย ๆ อยู่ค่ะป้าก้อย"
+        },
+        
+        {      
+            "ChatSide": "mid",  
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content" : "ป้าก้อยคิดว่า ถ้าซื้อของผ่านแอปพลิเคชั่น ควรเลือกซื้อจากร้านแบบไหน ถึงจะปลอดภัยที่สุดคะ",
+            "Choice" : [
+                {   "ID" : "001",
+                    "Path": "ร้านที่มีคะแนนรีวิวเยอะ ๆ แต่ไม่มีคอมเมนต์",
+                    "LinkType": "dialog",
+                    "FileName" : "story2-4-1"
+                },
+                {   "ID" : "001",
+                    "Path": "ร้านที่มีคะแนนรีวิวน้อย",
+                    "LinkType": "dialog",
+                    "FileName" : "story2-4-2"
+                },
+                {   "ID" : "001",
+                    "Path": " ร้านที่มีคอมเมนต์รีวิวจากผู้ซื้อตัวจริง และมีภาพประกอบ",
+                    "LinkType": "dialog",
+                    "FileName" : "story2-4-3"
+                },
+                {   "ID" : "001",
+                    "Path": "ร้านที่คะแนนรีวิวเยอะ แต่ใช้คำแปลกๆ",
+                    "LinkType": "dialog",
+                    "FileName" : "story2-4-4"
+                }
+            ]
+        }
+    ]
+}

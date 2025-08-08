@@ -32,3 +32,6 @@ Date,TimeFromStartQuestTion,ID,AnsTime,Ans,IsSignificant
 1746560000702,0,choice-web1,145.5326,ออกจากเว็บ,False
 1746560058960,0,choice-web1,203.785,ออกจากเว็บ,False
 1746560129300,218.9371,choice-chat-02-story1-7,55.19591,ส่ง,False
+1754634882223,60.65614,choice-chat-02-story1-4,3.860847,ไม่เช็ค,False
+1754634929288,104.8763,choice-web1,6.68692,ออกจากเว็บ,False
+1754634947287,126.6748,choice-chat-02-story1-7,2.906975,ส่ง,False

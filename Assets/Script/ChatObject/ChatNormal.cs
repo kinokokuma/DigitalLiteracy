@@ -129,7 +129,6 @@ public class ChatNormal : ChatObjectBase
             }
             if ((float)URLImage.sprite.texture.width / URLImage.sprite.texture.height > 0)
             {
-                print((float)URLImage.sprite.texture.width / (float)URLImage.sprite.texture.height);
                 URLImageRatio.aspectRatio = (float)URLImage.sprite.texture.width / (float)URLImage.sprite.texture.height;
             }
         }

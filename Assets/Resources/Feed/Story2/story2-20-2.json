@@ -1,0 +1,80 @@
+{
+  "ID": "chat-01",
+  "BG": "res",
+  "DataDetail": [
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "จ่ายเรียบร้อยแล้วนะหนุ่ม"
+    },
+    {
+      "OnwerName": "พนักงาน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "สักครู่นะคะ"
+    },
+    {
+      "OnwerName": "พนักงาน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        },{
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": true
+        }
+      ],
+      "Content": "เอ๊ะ…ยอดเงินไม่เข้าเลยค่ะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        },{
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": false
+        }
+      ],
+      "Content": "แต่เราโอนไปแล้วนะคะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": " left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        },{
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": false
+        }
+      ],
+      "Content": "ดูสลิปสิ",
+      "LinkType": "dialog",
+      "FileName": "story2-21-2"
+    }
+  ]
+}

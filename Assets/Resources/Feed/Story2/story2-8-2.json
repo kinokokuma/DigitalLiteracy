@@ -1,0 +1,44 @@
+{
+  "ID": "chat-01",
+  "BG": "house",
+  "DataDetail": [
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "อย่าเพิ่งเห็นแก่ของถูกสิก้อย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ต้องเช็คก่อนว่าจะโดนหลอกไหม"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ไหนดูร้านที่ขายสิ",
+      "LinkType": "dialog",
+      "FileName": "story2-9"
+    }
+  ]
+}

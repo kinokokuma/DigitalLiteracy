@@ -1,0 +1,99 @@
+{
+    "ID": "chat-01",
+    "BG": "house",
+    "DataDetail": [
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ร้านที่มีคอมเมนต์รีวิวจากผู้ซื้อตัวจริง และมีภาพประกอบ "
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ป้าก้อยเลือกเก่งมากเลยค่ะ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ต้องเลือกจากร้านที่มีภาพสินค้าจริง"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "แล้วก็คอมเมนต์ที่เกี่ยวกับสินค้านะคะ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ถ้าเลือกร้านอื่น"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ถึงแม้จะมีราคาที่ถูกมาก ๆ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "แต่เจนคิดว่ามีโอกาสความเป็นไปได้ที่จะเจอมิจฉาชีพค่ะ",
+            "LinkType": "dialog",
+            "FileName" : "story2-5"
+        }
+    ]
+}

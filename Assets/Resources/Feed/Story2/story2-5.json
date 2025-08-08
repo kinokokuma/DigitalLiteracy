@@ -1,0 +1,171 @@
+{
+    "ID": "chat-01",
+    "BG": "house",
+    "DataDetail": [
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "งั้นป้าเลือกร้านนี้แหละ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ต่อไปก็จ่ายเงินใช่ไหมหนู"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ใช่ค่ะ ป้าก้อย"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "มีวิธีจ่ายเงินหลายแบบตามที่เราสะดวกเลยค่ะ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ทั้งสแกน QR Code"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "โอนผ่านบัญชีธนาคาร"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "หรือแบบตัดบัตรเครดิตก็มีนะคะ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "อย่างนี้นี่เอง ป้าเข้าใจแล้วล่ะ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :false
+            }
+            ],
+            "Content": "ขอบคุณที่สอนป้านะหนูเจน"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ไม่เป็นไรค่ะป้าก้อย"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ถ้ามีอะไรถามเจนได้เลยค่ะ"
+        },
+        {
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            
+            {
+                "Image":"image/jane2",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "งั้นเจนขอตัวไปโทรศัพท์คุยกับคุณพ่อก่อนนะคะ"
+        },
+        {
+            "OnwerName": "ป้าก้อย",
+            "ChatSide": "right",
+            "DialogImage":[
+            ],
+            "Content": "ไหน ๆ ก็ใช้เป็นแล้วลองซื้ออย่างอื่นด้วยดีกว่า",
+            "LinkType": "page",
+            "FileName" : "page2-1"
+        }
+    ]
+}

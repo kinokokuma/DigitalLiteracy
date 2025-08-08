@@ -1,0 +1,180 @@
+{
+  "ID": "chat-01",
+  "BG": "res",
+  "DataDetail": [
+    {
+      "ChatSide": "mid",
+      "Content": "ณ ร้านอาการ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ดีจริง ๆ ที่เชื่อหนูเจน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ป้าได้ทีวีจอสวย ๆ มาดูหนังแล้ว"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เครื่องเก่าก็ยกให้ลุง ๆ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เอาไว้ไปดูฟุตบอลห้องอื่น"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ฮ่าฮ่าฮ่า ดีเลยค่ะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เวลาลุงดูฟุตบอลทีไร"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เสียงดังมาก"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "จนเจนกับป้าก้อยดูซีรีส์ไม่รู้เรื่องเลยนะคะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ใช่เลยหนูเจน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "นี่ก็เป็นอีกเหตุผลที่ป้าซื้อทีวีเครื่องใหม่"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เดี๋ยวมื้อนี้ป้าเลี้ยงเอง"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ถือว่าฉลองทีวีใหม่"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แล้วก็ขอบคุณหนูที่สอนป้าเช็คร้านด้วย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": " left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "งั้นเจนจะกินให้เยอะ ๆ เลยค่ะ!!",
+      "LinkType": "dialog",
+      "FileName": "story2-18"
+    }
+  ]
+}

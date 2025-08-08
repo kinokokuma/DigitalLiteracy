@@ -1,0 +1,38 @@
+{
+  "ID": "chat-01",
+  "BG": "res",
+  "DataDetail": [
+    {
+      "OnwerName": "พนักงาน",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/employee",
+          "ImageSide": "right",
+          "Active": true
+        },
+                {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ชื่อผู้รับไม่ใช่ของทางร้านนะคะ"
+    },
+
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": " left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "หา!!!?? ไหนดูอีกทีสิ",
+      "LinkType": "dialog",
+      "FileName": "story2-21-2"
+    }
+  ]
+}

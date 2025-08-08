@@ -12,7 +12,18 @@
                 "Active" :true
             }
             ],
-            "Content": "แล้วรหัสบัตรของป้าก้อย ใช่รหัสที่เจนเคยลงทะเบียนให้ไหมคะ"
+            "Content": "แล้วรหัสบัตรของป้าก้อย"
+        },{
+            "OnwerName": "เจน",
+            "ChatSide": "left",
+            "DialogImage":[
+            {
+                "Image":"image/jane",
+                "ImageSide":"left",
+                "Active" :true
+            }
+            ],
+            "Content": "ใช่รหัสที่เจนเคยลงทะเบียนให้ไหมคะ"
         },{
             "OnwerName": "เจน",
             "ChatSide": "left",

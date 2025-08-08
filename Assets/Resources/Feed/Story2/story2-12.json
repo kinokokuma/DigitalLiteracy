@@ -1,0 +1,31 @@
+{
+  "ID": "chat-01",
+  "BG": "house",
+  "DataDetail": [
+    {
+      "ChatSide": "mid",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ซื้อสินค้าจากร้าน Official เลยดีไหม ?",
+      "Choice": [
+        {
+          "ID": "001",
+          "Path": "ไม่ซื้อ กลับไปซื้อร้านแรกที่ถูกกว่า",
+          "LinkType": "dialog",
+          "FileName": "story2-8-1"
+        },
+        {
+          "ID": "001",
+          "Path": "ซื้อเลย ถึงจะแพงกว่า แต่ปลอดภัย",
+          "LinkType": "dialog",
+          "FileName": "story2-12-2"
+        }
+      ]
+    }
+  ]
+}

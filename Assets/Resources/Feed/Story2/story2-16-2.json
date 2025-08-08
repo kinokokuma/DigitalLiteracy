@@ -1,0 +1,73 @@
+{
+  "ID": "chat-01",
+  "BG": "house",
+  "DataDetail": [
+    {
+      "ChatSide": "mid",
+      "Content": "10 นาที ผ่านไป"
+    },
+
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ว้าว~!!!! ทีวีจอใหญ่มาก !!"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "สีสวยด้วยค่ะ ~♪"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "สีชัดมากเลย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ดีแล้วที่เลือกซื้อจากร้าน Official"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": " right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ตามที่หนูเจนแนะนำ",
+      "LinkType": "dialog",
+      "FileName": "story2-17-1"
+    }
+  ]
+}

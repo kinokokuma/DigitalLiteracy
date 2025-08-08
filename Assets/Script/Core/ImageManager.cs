@@ -24,7 +24,7 @@ public class ImageManager : MonoSingleton<ImageManager>
             // Texture2D poseTexture = new Texture2D(1, 1, TextureFormat.ARGB32, true);
             // poseTexture.LoadImage(bytes);
             Texture2D poseTexture = Resources.Load<Texture2D>(path);
-            print(path);
+
             Sprite sprite = Sprite.Create(poseTexture, new Rect(0.0f, 0.0f, poseTexture.width, poseTexture.height), new Vector2(0.5f, 0.5f), 100.0f);
             imageDic[path] = sprite;
 

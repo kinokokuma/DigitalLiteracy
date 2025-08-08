@@ -1,0 +1,79 @@
+{
+  "ID": "chat-01",
+  "BG": "house",
+  "DataDetail": [
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เอ๊ะ! ไม่ใช่ร้าน Official แบบที่หนูเจนบอกเลยนี่นา"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แต่ราคาถูกมากเลยนะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แถมได้ไมโครเวฟด้วย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "คุ้มสุด ๆ เลย !!"
+    },
+    {
+      "ChatSide": "mid",
+      "DialogImage": [
+        {
+          "Image":"image/jane2",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เช็คอย่างอื่นด้วยดีไหมนะ",
+      "Choice": [
+        {
+          "ID": "001",
+          "Path": "เช็ค",
+          "LinkType": "dialog",
+          "FileName": "story2-10 "
+        },
+        {
+          "ID": "001",
+          "Path": "ไม่เช็คแล้ว ซื้อเลย",
+          "LinkType": "dialog",
+          "FileName": "story2-8-1"
+        }
+      ]
+    }
+  ]
+}

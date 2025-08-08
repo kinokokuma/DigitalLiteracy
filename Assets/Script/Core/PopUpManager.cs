@@ -98,8 +98,8 @@ public class PopUpManager : MonoBehaviour
         }
         yield return new WaitForEndOfFrame();
 
-        // OpenChat($"{UserData.Story.ToLower()}-1");
-         OpenDialog($"story1-1");
+        //OpenDialog($"{UserData.Story.ToLower()}-1");
+         OpenDialog($"story2-5");
        // OpenChat("story1-8-2");
        //OpenChat("story1-8-2");
         // OpenChat($"Route1/story1-10-A-1");
@@ -213,7 +213,7 @@ public class PopUpManager : MonoBehaviour
     public void OpenDialog(string path)
     {
         path = GetSpPath(path);
-
+        print($"Feed/{UserData.Story}/{path}");
         DialogData newData = ReadDialogData($"Feed/{UserData.Story}/{path}");
         string id = newData.ID;
         TimeRecord.Instance.LogCheck(path);
@@ -276,7 +276,7 @@ public class PopUpManager : MonoBehaviour
     {
         DialogData data = new DialogData();
         var jsonTextFile = Resources.Load<TextAsset>(path);
-        print(jsonTextFile.ToString());
+
         return data = JsonUtility.FromJson<DialogData>(jsonTextFile.ToString());
 
         //StartCoroutine(ShowChat());

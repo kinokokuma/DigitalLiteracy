@@ -1,0 +1,33 @@
+{
+  "ID": "chat-01",
+  "BG": "house",
+  "DataDetail": [
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+      ],
+      "Content": "ซื้อของร้านนี้ดีไหมนะ ?"
+    },
+    {
+      "ChatSide": "mid",
+      "DialogImage": [
+      ],
+      "Content": "กรุณาเลือกคำตอบ",
+      "Choice": [
+        {
+          "ID": "001",
+          "Path": "ซื้อเลย เพราะ ราคาถูก และมีของแถมนะลูกนะ",
+          "LinkType": "dialog",
+          "FileName": "story2-8-1"
+        },
+        {
+          "ID": "001",
+          "Path": "ยังก่อน",
+          "LinkType": "dialog",
+          "FileName": "story2-8-2"
+        }
+      ]
+    }
+  ]
+}
