@@ -73,8 +73,8 @@
         }
       ],
       "Content": "แต่ถ้ามีปัญหาก็เคลมของได้นี่นา ?",
-      "LinkType": "dialog",
-      "FileName": "story2-12"
+      "LinkType": "page",
+      "FileName": "page2-3"
     }
   ]
 }
