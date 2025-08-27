@@ -362,7 +362,8 @@
                 "Active" :false
             }
             ],
-            "Content": "โอ้โห!! ร้านขายเข็มขัดเยอะแยะเลย"
+            "Content": "โอ้โห!! ร้านขายเข็มขัดเยอะแยะเลย",
+            "AddImage":"image/Story2/belt"
         },
         {
             "OnwerName": "ป้าก้อย",
@@ -375,7 +376,8 @@
                 "Active" :false
             }
             ],
-            "Content": "ป้าจะเลือกร้านยังไงดีล่ะหนูเจน ?"
+            "Content": "ป้าจะเลือกร้านยังไงดีล่ะหนูเจน ?",
+            "AddImage":"image/Story2/belt"
         },
         {
             "OnwerName": "เจน",
@@ -388,7 +390,8 @@
                 "Active" :true
             }
             ],
-            "Content": "เจนมีวิธีเลือกง่าย ๆ อยู่ค่ะป้าก้อย"
+            "Content": "เจนมีวิธีเลือกง่าย ๆ อยู่ค่ะป้าก้อย",
+            "AddImage":"image/Story2/belt"
         },
         
         {      
@@ -423,7 +426,8 @@
                     "LinkType": "dialog",
                     "FileName" : "story2-4-4"
                 }
-            ]
+            ],
+            "AddImage":"image/Story2/belt"
         }
     ]
 }

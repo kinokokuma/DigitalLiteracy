@@ -17,7 +17,8 @@
           "Active": false
         }
       ],
-      "Content": "ชื่อผู้รับไม่ใช่ของทางร้านนะคะ"
+      "Content": "ชื่อผู้รับไม่ใช่ของทางร้านนะคะ",
+            "AddImage":"image/Story2/bill red"
     },
 
     {
@@ -25,14 +26,13 @@
       "ChatSide": " left",
       "DialogImage": [
         {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": true
+
         }
       ],
       "Content": "หา!!!?? ไหนดูอีกทีสิ",
       "LinkType": "dialog",
-      "FileName": "story2-21-2"
+      "FileName": "story2-21-2",
+            "AddImage":"image/Story2/bill red"
     }
   ]
 }

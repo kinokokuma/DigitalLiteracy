@@ -1,0 +1,56 @@
+{
+  "ID": "chat-01",
+  "BG": "house ",
+  "DataDetail": [
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ป้าก้อยคะ เจนลองเช็คให้แล้ว"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เป็นข่าวปลอมจริง ๆ ด้วยค่ะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เผลอ ๆ อาจจะเป็นมิจฉาชีพก็ได้นะคะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ไหนหนูเจน ป้าขอดูหน่อย",
+      "LinkType": "page",
+      "FileName": "page3-2"
+    }
+  ]
+}

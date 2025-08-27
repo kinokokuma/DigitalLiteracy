@@ -78,6 +78,7 @@ public class DialogDataDetail
     public string LinkType = string.Empty;
     public string FileName = string.Empty;
     public string Sound = string.Empty;
+    public string AddImage = string.Empty;
 }
 
 [System.Serializable]

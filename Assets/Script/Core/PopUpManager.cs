@@ -89,8 +89,8 @@ public class PopUpManager : MonoBehaviour
         }
         else if (UserData.Story == "Story3")
         {
-            OpenChat("story3-0-2", true, true);
-            OpenChat("story3-0-3", true, true);
+          /*  OpenChat("story3-0-2", true, true);
+            OpenChat("story3-0-3", true, true);*/
         }
         while (NextFileName != "")
         {
@@ -98,8 +98,8 @@ public class PopUpManager : MonoBehaviour
         }
         yield return new WaitForEndOfFrame();
 
-        //OpenDialog($"{UserData.Story.ToLower()}-1");
-         OpenDialog($"story2-5");
+        OpenDialog($"{UserData.Story.ToLower()}-1");
+        // OpenDialog($"story2-5");
        // OpenChat("story1-8-2");
        //OpenChat("story1-8-2");
         // OpenChat($"Route1/story1-10-A-1");
@@ -135,12 +135,13 @@ public class PopUpManager : MonoBehaviour
     {
         if (Dialog.gameObject.active)
         {
-            SoundManager.Instance.BGMsource.Play();
+           // SoundManager.Instance.BGMsource.Play();
         }
         else
         {
-            SoundManager.Instance.BGMsource.Pause();
+          //  SoundManager.Instance.BGMsource.Pause();
         }
+
         if (currentPostPopupData != null)
         {
             if (currentPostPopupData.IsTask)

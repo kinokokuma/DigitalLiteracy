@@ -1,0 +1,205 @@
+{
+  "ID": "chat-01",
+  "BG": "house ",
+  "DataDetail": [
+        {
+      "ChatSide": "mid",
+      "Content": "โอนเงินให้เจน 20,000 บาท",
+      "Sound" : "noti"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เดี๋ยวก่อนค่ะป้าก้อย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "นี่มันไม่ใช่แค่ค่าขนมแล้วนะคะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เดี๋ยวเจนโอนคืนให้นะคะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "รับไปเถอะลูก"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ถือว่าเป็นคำขอบคุณจากป้าและเพื่อน ๆ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ความจริงแล้วป้ากับเพื่อนอยากให้เยอะกว่านี้"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แต่แม่หนูขอไว้ เพราะหนูยังเด็กอยู่เลย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "หลังจากนี้ไป"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ป้ากับเพื่อน ๆ ตกลงกันแล้วว่า"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "จะไม่แชร์ลิ้งค์อะไรลงไลน์กลุ่ม"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ถ้าไม่เช็คว่าเป็นข่าวจริงก่อน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "จะได้ไม่เกิดเหตุการณ์แบบนี้อีก"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ดีเลยค่ะป้าก้อย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ว่าแต่เว็บไซต์ที่หนูเจนใช้เช็คข่าวปลอม"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "นี่มันชื่ออะไรนะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย ค่ะป้าก้อย",
+      "LinkType": "page",
+      "FileName": "end3"
+    }
+  ]
+}

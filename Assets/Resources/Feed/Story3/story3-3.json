@@ -1,0 +1,278 @@
+{
+  "ID": "chat-01",
+  "BG": "house ",
+  "DataDetail": [
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เอาจริง ๆ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ช่วงนี้ป้ากับลุงรู้สึกว่างมากเลย"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "อยากจะหาอะไรทำ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ให้มันมีรายได้เข้ามาบ้าง"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "หนูเจนพอจะแนะนำป้าได้ไหมลูก"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ได้สิคะป้าก้อย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ป้าก้อยอยากทำแบบไหนเหรอคะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ช่วงนี้เจนกำลังศึกษาการลงทุนอยู่ค่ะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ซื้อหุ้นแล้วรอรับเงินปันผล"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "หรือจะเทรดหุ้นเอากำไรก็ได้"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "คุณพ่อก็กำลังเทรดเหมือนกันค่ะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เทรดอะไรนะลูก"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แบบนั้นป้าน่าจะทำไม่เป็นหรอก"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แต่มีแบบที่ซื้อแล้วรอเอาเงินปันผลอยู่นี่"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ได้เยอะไหมลูก"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "มันก็ขึ้นอยู่กับสภาพของเศรษฐกิจน่ะค่ะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "แต่สำหรับคนที่อยากซื้อทิ้งไว้"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "แล้วเก็บเป็นเงินเกษียณก็ทำได้นะคะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "อืม… น่าสนใจนะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แล้วยังไ- - -"
+    },
+    {
+      "ChatSide": "mid",
+      "Content": "คุณได้รับการแจ้งเตือน",
+      "Sound":"noti"
+
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "นี่ไงพูดยังไม่ทันขาดคำ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "แชร์ลิ้งค์อะไรมาอีกแล้วเนี่ย",
+      "LinkType": "dialog",
+      "FileName": "story3-4"
+    }
+  ]
+}

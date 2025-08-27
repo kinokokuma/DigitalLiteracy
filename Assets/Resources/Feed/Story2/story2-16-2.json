@@ -17,7 +17,9 @@
           "Active": true
         }
       ],
-      "Content": "ว้าว~!!!! ทีวีจอใหญ่มาก !!"
+      "Content": "ว้าว~!!!! ทีวีจอใหญ่มาก !!",
+            "AddImage":"image/Story2/boxTVtrue",
+      "Sound":"openBox"
     },
     {
       "OnwerName": "เจน",
@@ -29,7 +31,8 @@
           "Active": true
         }
       ],
-      "Content": "สีสวยด้วยค่ะ ~♪"
+      "Content": "สีสวยด้วยค่ะ ~♪",
+            "AddImage":"image/Story2/boxTVtrue"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -41,7 +44,8 @@
           "Active": false
         }
       ],
-      "Content": "สีชัดมากเลย"
+      "Content": "สีชัดมากเลย",
+            "AddImage":"image/Story2/boxTVtrue"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -53,7 +57,8 @@
           "Active": false
         }
       ],
-      "Content": "ดีแล้วที่เลือกซื้อจากร้าน Official"
+      "Content": "ดีแล้วที่เลือกซื้อจากร้าน Official",
+            "AddImage":"image/Story2/boxTVtrue"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -67,7 +72,8 @@
       ],
       "Content": "ตามที่หนูเจนแนะนำ",
       "LinkType": "dialog",
-      "FileName": "story2-17-1"
+      "FileName": "story2-17-1",
+            "AddImage":"image/Story2/boxTVtrue"
     }
   ]
 }

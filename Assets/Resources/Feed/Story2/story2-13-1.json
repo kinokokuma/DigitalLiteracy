@@ -1,7 +1,12 @@
 {
   "ID": "chat-01",
-  "BG": "house",
+  "BG": "housefont",
   "DataDetail": [
+    {
+      "ChatSide": "mid",
+      "Content": "พัสดุมาส่ง",
+      "Sound":"bell"
+    },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
@@ -16,7 +21,8 @@
       "DialogImage": [
         
       ],
-      "Content": "รอแป๊ปเดียวเอง"
+      "Content": "รอแป๊ปเดียวเอง",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -24,7 +30,8 @@
       "DialogImage": [
         
       ],
-      "Content": "สมัยนี้อะไร ๆ"
+      "Content": "สมัยนี้อะไร ๆ",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -32,7 +39,8 @@
       "DialogImage": [
         
       ],
-      "Content": "ก็สบายดีจริง ๆ"
+      "Content": "ก็สบายดีจริง ๆ",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "เจน",
@@ -44,7 +52,8 @@
           "Active": true
         }
       ],
-      "Content": "อ้าว !! ป้าก้อยสั่งของมาเหรอคะ ?"
+      "Content": "อ้าว !! ป้าก้อยสั่งของมาเหรอคะ ?",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "เจน",
@@ -56,7 +65,8 @@
           "Active": true
         }
       ],
-      "Content": "กล่องใหญ่เชียว"
+      "Content": "กล่องใหญ่เชียว",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "เจน",
@@ -68,7 +78,8 @@
           "Active": true
         }
       ],
-      "Content": "วันก่อนเข็มขัดของคุณลุงเพิ่งมาส่งเองนี่นา"
+      "Content": "วันก่อนเข็มขัดของคุณลุงเพิ่งมาส่งเองนี่นา",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -80,7 +91,8 @@
           "Active": false
         }
       ],
-      "Content": "ก็ป้าน่ะ เห็นว่าทีวีที่บ้านมันเก่าแล้ว"
+      "Content": "ก็ป้าน่ะ เห็นว่าทีวีที่บ้านมันเก่าแล้ว",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -92,7 +104,8 @@
           "Active": false
         }
       ],
-      "Content": "เลยสั่งให้เขาเอามาส่ง"
+      "Content": "เลยสั่งให้เขาเอามาส่ง",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -104,7 +117,8 @@
           "Active": false
         }
       ],
-      "Content": "ป้าจะได้ไม่ต้องไปซื้อในเมืองน่ะหนูเจน"
+      "Content": "ป้าจะได้ไม่ต้องไปซื้อในเมืองน่ะหนูเจน",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -116,7 +130,8 @@
           "Active": false
         }
       ],
-      "Content": "ขับรถไปป้าเหนื่อย"
+      "Content": "ขับรถไปป้าเหนื่อย",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -128,7 +143,8 @@
           "Active": false
         }
       ],
-      "Content": "ลุงก็ไม่ว่าง"
+      "Content": "ลุงก็ไม่ว่าง",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -140,7 +156,8 @@
           "Active": false
         }
       ],
-      "Content": "ต้องเฝ้าสวน"
+      "Content": "ต้องเฝ้าสวน",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "เจน",
@@ -152,7 +169,8 @@
           "Active": true
         }
       ],
-      "Content": "งั้นเรามาแกะกล่องกันดูดีกว่าค่ะ"
+      "Content": "งั้นเรามาแกะกล่องกันดูดีกว่าค่ะ",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "เจน",
@@ -164,7 +182,8 @@
           "Active": true
         }
       ],
-      "Content": "เดี๋ยวเจนจะได้ช่วยยกไปวางบนบ้านนะคะ"
+      "Content": "เดี๋ยวเจนจะได้ช่วยยกไปวางบนบ้านนะคะ",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -176,7 +195,8 @@
           "Active": false
         }
       ],
-      "Content": "ได้เลยหนูเจน"
+      "Content": "ได้เลยหนูเจน",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -190,7 +210,8 @@
       ],
       "Content": "ขอบใจมากนะลูก",
       "LinkType": "dialog",
-      "FileName": "story2-14-1"
+      "FileName": "story2-14-1",
+            "AddImage":"image/Story2/boxclose"
     }
   ]
 }

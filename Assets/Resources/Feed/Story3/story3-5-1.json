@@ -1,0 +1,127 @@
+{
+  "ID": "chat-01",
+  "BG": "house ",
+  "DataDetail": [
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เดี๋ยวก่อนค่ะป้าก้อย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ป้าก้อยจะซื้อตามเพื่อน ๆ เลยเหรอคะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เจนว่ามันแปลก ๆ นะคะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "คาเฟ่อเมซอน มีสาขาอยู่แทบทุกที่"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "แล้วยังมีสาขาเพิ่มตลอด"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ดูเหมือนไม่มีความจำเป็นที่จะต้องเอาเงินจากการขายหุ้นเลยนะคะ"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "นั่นสิ เค้าดูมั่นคงจะตายไปนี่นา"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ทำไมอยู่ ๆ ถึงจะขายหุ้นล่ะ"
+    },
+    {
+      "ChatSide": "mid",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ควรเช็คข้อมูลก่อนจะดีไหมนะ?",
+      "Choice": [
+        {
+          "ID": "001",
+          "Path": "ไม่เช็ค ถ้าช้าเดี๋ยวจะไม่ได้ซื้อหุ้น",
+          "LinkType": "dialog",
+          "FileName": "story3-6-1"
+        },
+        {
+          "ID": "001",
+          "Path": "เช็ค หลานบอกว่ามันแปลกขนาดนี้ จะไม่เช็คได้อย่างไร",
+          "LinkType": "dialog",
+          "FileName": "story3-5-2"
+        }
+      ]
+    }
+  ]
+}

@@ -55,6 +55,9 @@ public class DialogPopup : BasePopUp
     [SerializeField]
     private TMP_Text allDialogText;
     private string allDialog;
+    [SerializeField]
+    private Image addBG;
+
     void Start()
     {
        /* rightChat.SetActive(false);
@@ -62,6 +65,7 @@ public class DialogPopup : BasePopUp
         midChat.SetActive(false);
         leftChatImage.gameObject.SetActive(false);
         rightChatImage.gameObject.SetActive(false);*/
+
     }
 
     public void ShowDialog(DialogData data)
@@ -72,7 +76,7 @@ public class DialogPopup : BasePopUp
         if (data.BG != string.Empty)
         {
 
-            var poseTexture = Resources.Load<Texture2D>($"Image/{UserData.Story}/{data.BG}");
+            var poseTexture = Resources.Load<Texture2D>($"Image/{UserData.Story}/{data.BG.Trim(' ')}");
             BG.sprite = Sprite.Create(poseTexture, new Rect(0.0f, 0.0f, poseTexture.width, poseTexture.height), new Vector2(0.5f, 0.5f), 100.0f);
         }
         int contextCharecterIndex = 0;
@@ -102,7 +106,9 @@ public class DialogPopup : BasePopUp
 
             if (data.DataDetail[chatIndex].Choice != null)
             {
-
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้า", $"{UserData.UserSex}");
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ก้อย", $"{UserData.UserName}");
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("{type}", UserData.UserSex);
                 if (data.DataDetail[chatIndex].Choice.Length > 0)
                 {
                     //CreateLike();
@@ -223,10 +229,37 @@ public class DialogPopup : BasePopUp
                 midChat.SetActive(true);
                 midChatText.text = data.DataDetail[chatIndex].Content;
             }
-            if (data.DataDetail[chatIndex].Sound == "noti")
+            
+            if(data.DataDetail[chatIndex].AddImage != string.Empty)
             {
-                SoundManager.Instance.PlaySound(SoundID.newChat,3);
+                addBG.sprite = ImageManager.Instance.LoadImage(data.DataDetail[chatIndex].AddImage);
+                addBG.gameObject.SetActive(true);
             }
+            else
+            {
+                addBG.gameObject.SetActive(false);
+            }
+
+            if (data.DataDetail[chatIndex].Sound != string.Empty)
+            {
+                if (data.DataDetail[chatIndex].Sound == "noti")
+                {
+                    SoundManager.Instance.PlaySound(SoundID.chatPop, 3);
+                }
+                else if(data.DataDetail[chatIndex].Sound == "bell")
+                {
+                    SoundManager.Instance.PlaySound(SoundID.bell, 3);
+                }
+                else if (data.DataDetail[chatIndex].Sound == "drop")
+                {
+                    SoundManager.Instance.PlaySound(SoundID.drop, 3);
+                }
+                else if (data.DataDetail[chatIndex].Sound == "openBox")
+                {
+                    SoundManager.Instance.PlaySound(SoundID.openBox, 3);
+                }
+            }
+
             chatIndex++;
         }
         else {

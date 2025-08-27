@@ -12,7 +12,8 @@
           "Active": true
         }
       ],
-      "Content": "จริงด้วย !"
+      "Content": "จริงด้วย !",
+            "AddImage":"image/Story2/bill red"
     },
     {
       "OnwerName": "เจน",
@@ -24,7 +25,8 @@
           "Active": true
         }
       ],
-      "Content": "ในนี้เป็นชื่อใครก็ไม่รู้"
+      "Content": "ในนี้เป็นชื่อใครก็ไม่รู้",
+            "AddImage":"image/Story2/bill red"
     },
     {
       "OnwerName": "เจน",

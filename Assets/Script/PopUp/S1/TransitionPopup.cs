@@ -16,9 +16,15 @@ public class TransitionPopup : BasePopUp
     private string nextDataName;
     [SerializeField]
     private PopupType popupType;
+    [SerializeField]
+    private SoundID soundID;
     void Start()
     {
-       StartCoroutine(ShowAllChatGuide());
+        if (soundID != SoundID.None)
+        {
+            SoundManager.Instance.PlaySound(soundID);
+        }
+        StartCoroutine(ShowAllChatGuide());
     }
     private IEnumerator ShowAllChatGuide()
     {

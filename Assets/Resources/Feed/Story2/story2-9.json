@@ -5,67 +5,36 @@
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "เอ๊ะ! ไม่ใช่ร้าน Official แบบที่หนูเจนบอกเลยนี่นา"
+      "Content": "เอ๊ะ! ไม่ใช่ร้าน Official แบบที่หนูเจนบอกเลยนี่นา",
+            "AddImage":"image/Story2/TVzoom"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "แต่ราคาถูกมากเลยนะ"
+      "Content": "แต่ราคาถูกมากเลยนะ",
+            "AddImage":"image/Story2/TVzoom"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "แถมได้ไมโครเวฟด้วย"
+      "Content": "แถมได้ไมโครเวฟด้วย",
+            "AddImage":"image/Story2/TVzoom"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "คุ้มสุด ๆ เลย !!"
+      "Content": "คุ้มสุด ๆ เลย !!",
+            "AddImage":"image/Story2/TVzoom"
     },
     {
       "ChatSide": "mid",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
       "Content": "เช็คอย่างอื่นด้วยดีไหมนะ",
       "Choice": [
         {
           "ID": "001",
           "Path": "เช็ค",
-          "LinkType": "dialog",
-          "FileName": "story2-10 "
+          "LinkType": "page",
+          "FileName": "page2-2"
         },
         {
           "ID": "001",

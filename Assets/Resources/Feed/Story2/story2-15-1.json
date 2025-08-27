@@ -12,7 +12,9 @@
           "Active": true
         }
       ],
-      "Content": "เฮ้ย!!!"
+      "Content": "เฮ้ย!!!",
+      "AddImage":"image/Story2/boxTVfake",
+      "Sound":"openBox"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -24,7 +26,8 @@
           "Active": false
         }
       ],
-      "Content": "เฮ้ย!!!"
+      "Content": "เฮ้ย!!!",
+            "AddImage":"image/Story2/boxTVfake"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -36,7 +39,8 @@
           "Active": false
         }
       ],
-      "Content": "ทำไมเปิดมากลายเป็นชั้นวางของล่ะ!!"
+      "Content": "ทำไมเปิดมากลายเป็นทีวีเก่าๆล่ะ!!",
+            "AddImage":"image/Story2/boxTVfake"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -48,7 +52,8 @@
           "Active": false
         }
       ],
-      "Content": "ไหนดูป้ายอีกที"
+      "Content": "ไหนดูป้ายอีกที",
+            "AddImage":"image/Story2/boxTVfake"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -60,7 +65,8 @@
           "Active": false
         }
       ],
-      "Content": "อ้าว!! ก็แปะว่าทีวีนี่!!!"
+      "Content": "อ้าว!! ก็แปะว่าทีวีนี่!!!",
+            "AddImage":"image/Story2/boxTVfake"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -72,7 +78,8 @@
           "Active": false
         }
       ],
-      "Content": "ไม่นะเงินฉันนนนนนนนนนน"
+      "Content": "ไม่นะเงินฉันนนนนนนนนนน",
+            "AddImage":"image/Story2/boxTVfake"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -86,7 +93,8 @@
       ],
       "Content": "ไม่น่าเห็นแก่ของถูกเลย !",
       "LinkType": "dialog",
-      "FileName": "story2-16-1"
+      "FileName": "story2-16-1",
+            "AddImage":"image/Story2/boxTVfake"
     }
   ]
 }

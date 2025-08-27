@@ -1,0 +1,121 @@
+{
+  "ID": "chat-01",
+  "BG": "house ",
+  "DataDetail": [
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "โอ้โฮ ดีมากเลยหนูเจน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ป้าเพิ่งรู้เลยว่ามีอะไรแบบนี้ด้วย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "จริงเหรอคะป้าก้อย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "มีคนยังไม่รู้อีกเยอะเลยสินะคะ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เว็บไซต์นี้ไม่ค่อยมีการโปรโมทด้วยแหละค่ะ OR"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "หนูเจน ป้ามีเรื่องจะปรึกษา"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "คะป้าก้อย"
+    },
+    {
+      "ChatSide": "mid",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "ควรบอกเพื่อนในไลน์ป้าก้อยไหม ว่าเป็นข่าวปลอม หรืออาจจะเป็นมิจฉาชีพ",
+      "Choice": [
+        {
+          "ID": "001",
+          "Path": "บอกสิ เดี๋ยวเพื่อนหลงเชื่อแล้วจะเสียเงิน",
+          "LinkType": "dialog",
+          "FileName": "story3-9-1"
+        },
+        {
+          "ID": "001",
+          "Path": "ไม่ต้องบอกหรอก เพื่อนคงไม่หลงเชื่อแล้วซื้อเลย",
+          "LinkType": "dialog",
+          "FileName": "story3-9-2"
+        },
+        {
+          "ID": "001",
+          "Path": "ช่างมัน คนที่โดนหลอกผิดที่เชื่อเอง",
+          "LinkType": "dialog",
+          "FileName": "story3-9-2"
+        }
+      ]
+    }
+  ]
+}

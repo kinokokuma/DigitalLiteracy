@@ -5,60 +5,25 @@
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
       "Content": "ภาษาที่ใช้ก็แปลก ๆ"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
       "Content": "อ่านไม่เห็นรู้เรื่องเลย ??"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
       "Content": "อะไรเนี่ย “ทุกแห่งทั้งหมดทั้งปวง”??"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
       "Content": "80 จากร้อยคืออะไร ??"
     },
     {
       "ChatSide": "mid",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
       "Content": "เอายังไงดีนะ….?",
       "Choice": [
         {

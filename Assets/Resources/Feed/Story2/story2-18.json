@@ -180,19 +180,7 @@
           "Active": true
         }
       ],
-      "Content": "รบกวนสแกน QR ที่เคาท์เตอร์นะครับ"
-    },
-    {
-      "OnwerName": "ป้าก้อย",
-      "ChatSide": " right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "ไปกันหนูเจน",
+      "Content": "รบกวนสแกน QR ที่เคาท์เตอร์นะครับ",
       "LinkType": "dialog",
       "FileName": "story2-19"
     }

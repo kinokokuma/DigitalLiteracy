@@ -5,25 +5,17 @@
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-       
-      ],
       "Content": "เรียบร้อย"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        
-      ],
+
       "Content": "จ่ายเงินเสร็จแล้ว"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-       
-      ],
       "Content": "รอของมาส่งดีกว่า",
       "LinkType": "page",
       "FileName": "T2-8-1"

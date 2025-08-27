@@ -36,7 +36,8 @@
           "Active": true
         }
       ],
-      "Content": "ทำไมกล่องมันเบาแปลก ๆ"
+      "Content": "ทำไมกล่องมันเบาแปลก ๆ",
+      "Sound":"drop"
     },
     {
       "OnwerName": "ป้าก้อย",

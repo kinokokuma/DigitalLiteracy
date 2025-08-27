@@ -5,28 +5,16 @@
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "อ้าว ? ทำไมสแกนแล้ว"
+      "Content": "อ้าว ? ทำไมสแกนแล้ว",
+            "AddImage":"image/Story2/bill red"
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": " right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
       "Content": "ชื่อคนรับไม่ตรงกับชื่อที่ร้านแปะไว้ล่ะ ?",
       "LinkType": "dialog",
-      "FileName": "story2-21-1"
+      "FileName": "story2-21-1",
+            "AddImage":"image/Story2/bill red"
     }
   ]
 }

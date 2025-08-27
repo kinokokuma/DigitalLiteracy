@@ -5,25 +5,13 @@
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
+
       "Content": "เรียบร้อย "
     },
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
+
       "Content": "จ่ายเงินเสร็จแล้ว"
     },
     {
@@ -37,8 +25,8 @@
         }
       ],
       "Content": "รอของมาส่งดีกว่า",
-      "LinkType": "dialog",
-      "FileName": "story2-13-2"
+      "LinkType": "page",
+      "FileName": "T2-12-2"
     }
   ]
 }

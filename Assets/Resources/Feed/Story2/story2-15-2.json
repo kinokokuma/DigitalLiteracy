@@ -12,7 +12,9 @@
           "Active": true
         }
       ],
-      "Content": "ในที่สุดก็ถึงสักที"
+      "Content": "ในที่สุดก็ถึงสักที",
+      "Sound":"drop"
+
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -36,19 +38,8 @@
           "Active": false
         }
       ],
-      "Content": "เรามาแกะกล่องกันดีกว่าหนูเจน"
-    },
-    {
-      "OnwerName": "ป้าก้อย",
-      "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image":"image/jane2",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "ป้าวานหนูต่อสายแทนเครื่องเดิมหน่อยนะ"
+      "Content": "เรามาแกะกล่องกันดีกว่าหนูเจน",
+            "AddImage":"image/Story2/boxclose"
     },
     {
       "OnwerName": "เจน",
@@ -60,7 +51,7 @@
           "Active": true
         }
       ],
-      "Content": "ได้เลยค่ะ ป้าก้อย ♡ !",
+      "Content": "ได้เลยค่ะ ป้าก้อย",
       "LinkType": "dialog",
       "FileName": "story2-16-2"
     }

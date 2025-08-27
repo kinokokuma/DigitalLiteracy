@@ -616,6 +616,7 @@ MonoBehaviour:
   startTime: 0
   nextDataName: story2-13-1
   popupType: 1
+  soundID: 5
 --- !u!114 &8257385122939126832
 MonoBehaviour:
   m_ObjectHideFlags: 0

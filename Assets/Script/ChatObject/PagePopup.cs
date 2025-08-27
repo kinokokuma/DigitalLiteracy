@@ -8,8 +8,14 @@ public class PagePopup : BasePopUp
     private string nextDataName;
     [SerializeField]
     private PopupType popupType;
+    [SerializeField]
+    private SoundID soundID;
     void Start()
     {
+        if (soundID != SoundID.None)
+        {
+            SoundManager.Instance.PlaySound(soundID);
+        }
     }
     public void EndPage()
     {

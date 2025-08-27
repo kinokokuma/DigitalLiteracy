@@ -1,0 +1,177 @@
+{
+  "ID": "chat-01",
+  "BG": "house ",
+  "DataDetail": [
+    {
+      "ChatSide": "mid",
+      "Content": "เอาล่ะครับ ฝากถึงคุณผู้ชม",
+      "AddImage":"image/Story3/news"
+    },
+    {
+      "ChatSide": "mid",
+      "Content": "ช่วงนี้ข่าวปลอมกำลังระบาดหนัก",
+      "AddImage":"image/Story3/news"
+    },
+    {
+      "ChatSide": "mid",
+      "Content": "เพื่อป้องกันความเสียหายทางร่ายกายและทรัพย์สิน ",
+      "AddImage":"image/Story3/news"
+    },
+    {
+      "ChatSide": "mid",
+      "Content": "ไม่ควรเชื่อสิ่งที่ได้ฟังมาอย่างง่าย ๆ นะครับ",
+      "AddImage":"image/Story3/news"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "เดี๋ยวนี้ข่าวปลอมเยอะจังเนอะหนูเจน"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "น่ากลัวจังเลย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "จริงค่ะป้าก้อย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เพื่อนเจนเล่าให้ฟังบ่อยมากเลย"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ในไลน์กลุ่มของผู้ปกครอง"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ชอบมีการส่งลิ้งค์ข่าวให้กันบ่อย ๆ"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "บางครั้งก็เป็นข่าวจริง"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "บางครั้งก็มีข่าวปลอม"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ยิ่งตอนช่วงที่มีเหตุการณ์แผ่นดินไหว"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "พ่อ ๆ แม่ ๆ ตกใจกันยกใหญ่เลยค่ะ"
+    },
+    {
+      "ChatSide": "mid",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "คุณแชร์ข่าวเข้าไลน์กลุ่มบ่อยไหม?",
+      "Choice": [
+        {
+          "ID": "001",
+          "Path": "บ่อย",
+          "LinkType": "dialog",
+          "FileName": "story3-2"
+        },
+        {
+          "ID": "001",
+          "Path": "บางครั้ง",
+          "LinkType": "dialog",
+          "FileName": "story3-2"
+        },
+        {
+          "ID": "001",
+          "Path": "ไม่เคยเลย",
+          "LinkType": "dialog",
+          "FileName": "story3-2"
+        }
+      ]
+    }
+  ]
+}

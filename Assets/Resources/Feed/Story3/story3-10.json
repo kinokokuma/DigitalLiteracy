@@ -1,0 +1,47 @@
+{
+  "ID": "chat-01",
+  "BG": "house ",
+  "DataDetail": [
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เราส่งหลักฐานยืนยันไปขนาดนี้แล้ว",
+      "AddImage" : "image/story3/faceAret"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "ถ้าเพื่อน ๆ ป้าก้อยยังไม่เชื่อ",
+      "AddImage" : "image/story3/faceAret"
+    },
+    {
+      "OnwerName": "เจน",
+      "ChatSide": "left",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": true
+        }
+      ],
+      "Content": "เจนก็ไม่รู้จะทำยังไงแล้วเหมือนกันค่ะ",
+      "LinkType": "page",
+      "FileName": "T3-12-1",
+      "AddImage" : "image/story3/faceAret"
+    }
+  ]
+}
