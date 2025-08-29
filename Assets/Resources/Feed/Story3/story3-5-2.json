@@ -24,7 +24,8 @@
           "Active": true
         }
       ],
-      "Content": "เป็นข่าวปลอมจริง ๆ ด้วยค่ะ"
+      "Content": "เป็นข่าวปลอมจริง ๆ ด้วยค่ะ",
+      "AddImage" : "image/story3/faceAret"
     },
     {
       "OnwerName": "เจน",
@@ -36,7 +37,8 @@
           "Active": true
         }
       ],
-      "Content": "เผลอ ๆ อาจจะเป็นมิจฉาชีพก็ได้นะคะ"
+      "Content": "เผลอ ๆ อาจจะเป็นมิจฉาชีพก็ได้นะคะ",
+      "AddImage" : "image/story3/faceAret"
     },
     {
       "OnwerName": "ป้าก้อย",

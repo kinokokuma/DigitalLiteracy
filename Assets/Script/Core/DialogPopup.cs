@@ -95,6 +95,7 @@ public class DialogPopup : BasePopUp
     }
     public void OnNextChat()
     {
+        nextChat.interactable = false;
         bool haveQuestion = false;
         nextChat.gameObject.SetActive(true);
         if (data.DataDetail.Length > chatIndex)
@@ -258,6 +259,10 @@ public class DialogPopup : BasePopUp
                 {
                     SoundManager.Instance.PlaySound(SoundID.openBox, 3);
                 }
+                else if (data.DataDetail[chatIndex].Sound == "newChat")
+                {
+                    SoundManager.Instance.PlaySound(SoundID.newChat, 3);
+                }
             }
 
             chatIndex++;
@@ -294,6 +299,7 @@ public class DialogPopup : BasePopUp
 
             }
         }
+        nextChat.interactable = true;
     }
 
     private IEnumerator OnClickTextChoice(ChoiceText choiceText, DialogDataDetail data)

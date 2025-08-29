@@ -24,7 +24,33 @@
           "Active": false
         }
       ],
-      "Content": "เมื่อก่อนก็มีช่วงที่ส่งลิ้งค์ข่าวแปลก ๆ มา",
+      "Content": "เมื่อก่อนก็มีช่วงที่ส่งลิ้งค์ข่าวแปลก ๆ มา"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "อย่างเช่น ดื่มมะนาวรักษาเบาหวาน",
+      "AddImage":"image/story3/face",
+      "Sound":"newChat"
+    },
+    {
+      "OnwerName": "ป้าก้อย",
+      "ChatSide": "right",
+      "DialogImage": [
+        {
+          "Image": "image/jane",
+          "ImageSide": "left",
+          "Active": false
+        }
+      ],
+      "Content": "จิงฉูต้านมะเร็ง",
       "AddImage":"image/story3/face"
     },
     {
@@ -37,7 +63,8 @@
           "Active": false
         }
       ],
-      "Content": "อย่างเช่น ดื่มมะนาวรักษาเบาหวาน"
+      "Content": "อย่างอาทิตย์ที่แล้ว",
+      "AddImage":"image/story3/face"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -49,7 +76,9 @@
           "Active": false
         }
       ],
-      "Content": "จิงฉูต้านมะเร็ง"
+      "Content": "มีคนแชร์มาว่า จะเกิดแผ่นดินไหว",
+      "AddImage":"image/story3/face2",
+      "Sound":"newChat"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -61,31 +90,8 @@
           "Active": false
         }
       ],
-      "Content": "อย่างอาทิตย์ที่แล้ว"
-    },
-    {
-      "OnwerName": "ป้าก้อย",
-      "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image": "image/jane",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "มีคนแชร์มาว่า จะเกิดแผ่นดินไหว"
-    },
-    {
-      "OnwerName": "ป้าก้อย",
-      "ChatSide": "right",
-      "DialogImage": [
-        {
-          "Image": "image/jane",
-          "ImageSide": "left",
-          "Active": false
-        }
-      ],
-      "Content": "แถบอำเภอเขาแผ้ว ให้รีบอพยพ"
+      "Content": "แถบอำเภอเขาแผ้ว ให้รีบอพยพ",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "เจน",
@@ -97,7 +103,8 @@
           "Active": true
         }
       ],
-      "Content": "เอ๋ อาทิตย์ก่อนไม่มีแผ่นดินไหวนี่คะ"
+      "Content": "เอ๋ อาทิตย์ก่อนไม่มีแผ่นดินไหวนี่คะ",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -109,7 +116,8 @@
           "Active": false
         }
       ],
-      "Content": "มันก็ใช่ไงหนูเจน"
+      "Content": "มันก็ใช่ไงหนูเจน",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -121,7 +129,8 @@
           "Active": false
         }
       ],
-      "Content": "แต่มีเพื่อนป้าบางคนเค้าเชื่อ"
+      "Content": "แต่มีเพื่อนป้าบางคนเค้าเชื่อ",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -133,7 +142,8 @@
           "Active": false
         }
       ],
-      "Content": "เลยอพยพหนีกัน"
+      "Content": "เลยอพยพหนีกัน",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -145,7 +155,8 @@
           "Active": false
         }
       ],
-      "Content": "สุดท้ายกลับมา"
+      "Content": "สุดท้ายกลับมา",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -157,7 +168,8 @@
           "Active": false
         }
       ],
-      "Content": "โดนขโมยขึ้นบ้าน"
+      "Content": "โดนขโมยขึ้นบ้าน",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "ป้าก้อย",
@@ -169,7 +181,8 @@
           "Active": false
         }
       ],
-      "Content": "เสียหายไปหลายล้านเลย"
+      "Content": "เสียหายไปหลายล้านเลย",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "เจน",
@@ -181,7 +194,8 @@
           "Active": true
         }
       ],
-      "Content": "โอ้โฮ"
+      "Content": "โอ้โฮ",
+      "AddImage":"image/story3/face2"
     },
     {
       "OnwerName": "เจน",

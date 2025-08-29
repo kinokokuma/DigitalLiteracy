@@ -79,6 +79,7 @@ public class UserData : MonoBehaviour
         {
             des.text = story3Des;
         }
+        print(UserSex);
     }
 
     void extract(string zipPath)

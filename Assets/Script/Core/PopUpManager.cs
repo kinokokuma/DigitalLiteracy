@@ -153,6 +153,7 @@ public class PopUpManager : MonoBehaviour
                 scrollRect.enabled = true;
             }
         }
+        print(UserData.UserSex);
     }
 
     public string GetSpPath(string path)
