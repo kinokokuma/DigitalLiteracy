@@ -24,15 +24,10 @@
     {
       "OnwerName": "ป้าก้อย",
       "ChatSide": " left",
-      "DialogImage": [
-        {
-
-        }
-      ],
       "Content": "หา!!!?? ไหนดูอีกทีสิ",
-      "LinkType": "dialog",
-      "FileName": "story2-21-2",
-            "AddImage":"image/Story2/bill red"
+            "AddImage":"image/Story2/bill red",
+            "LinkType": "dialog",
+          "FileName": "story2-22"
     }
   ]
 }

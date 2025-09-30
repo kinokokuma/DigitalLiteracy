@@ -12,7 +12,7 @@ public enum SoundID
     bell,
     drop,
     openBox,
-
+    news
 }
 
 public class SoundManager : MonoSingleton<SoundManager>
@@ -26,6 +26,7 @@ public class SoundManager : MonoSingleton<SoundManager>
     public AudioClip bell;
     public AudioClip drop;
     public AudioClip openBox;
+    public AudioClip news;
 
     public AudioSource source;
     public AudioSource BGMsource;
@@ -42,6 +43,7 @@ public class SoundManager : MonoSingleton<SoundManager>
         soundDic[SoundID.drop] = drop;
         soundDic[SoundID.clock] = clock;
         soundDic[SoundID.suppy] = suppy;
+        soundDic[SoundID.news] = news;
 
         BGMsource.Play();
     }

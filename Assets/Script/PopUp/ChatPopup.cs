@@ -175,7 +175,7 @@ public class ChatPopup : BasePopUp
                 else
                 {
                     data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้าก้อย", $"{UserData.UserSex}{UserData.UserName}");
-                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("{type}", UserData.UserSex);
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", UserData.UserSex);
                     if (data.DataDetail[chatIndex].OnwerName == "my" && data.DataDetail[chatIndex].DelayTime !=0)
                     {
                         if(data.DataDetail[chatIndex].DelayTime == 1)

@@ -5,7 +5,8 @@
     {
       "ChatSide": "mid",
       "Content": "เอาล่ะครับ ฝากถึงคุณผู้ชม",
-      "AddImage":"image/Story3/news"
+      "AddImage":"image/Story3/news",
+      "Sound":"news"
     },
     {
       "ChatSide": "mid",

@@ -100,7 +100,12 @@ public class DialogPopup : BasePopUp
         nextChat.gameObject.SetActive(true);
         if (data.DataDetail.Length > chatIndex)
         {
-            if(data.DataDetail.Length-1 == chatIndex)
+
+            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("test2", $"C2");
+            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("{test1}", $"C1");
+            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ÎÐ", $"ha");
+            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("gender", $"{UserData.UserSex}");
+            if (data.DataDetail.Length-1 == chatIndex)
             {
                 //nextChat.gameObject.SetActive(false);
             }
@@ -247,7 +252,7 @@ public class DialogPopup : BasePopUp
                 {
                     SoundManager.Instance.PlaySound(SoundID.chatPop, 3);
                 }
-                else if(data.DataDetail[chatIndex].Sound == "bell")
+                else if (data.DataDetail[chatIndex].Sound == "bell")
                 {
                     SoundManager.Instance.PlaySound(SoundID.bell, 3);
                 }
@@ -262,6 +267,11 @@ public class DialogPopup : BasePopUp
                 else if (data.DataDetail[chatIndex].Sound == "newChat")
                 {
                     SoundManager.Instance.PlaySound(SoundID.newChat, 3);
+                }
+                else if(data.DataDetail[chatIndex].Sound == "news")
+                {
+                    SoundManager.Instance.PlaySound(SoundID.news, 3);
+
                 }
             }
 

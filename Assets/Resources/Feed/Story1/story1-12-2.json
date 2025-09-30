@@ -4,7 +4,8 @@
     "DataDetail": [
         {
             "ChatSide": "mid",
-            "Content": "“ข่าวด่วน”"
+            "Content": "“ข่าวด่วน”",
+            "Sound":"news"
         },
         {
             "ChatSide": "mid",

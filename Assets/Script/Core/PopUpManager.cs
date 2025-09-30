@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public enum QuestionPhase
@@ -42,7 +43,8 @@ public class PopUpManager : MonoBehaviour
     private Dictionary<string, ChatPopup> chatPopUpDic;
     [SerializeField]
     private Dictionary<string, BasePopUp> popUpDic;
-
+    [SerializeField]
+    private ScrollRect chatHistory;
     [SerializeField]
     private Transform goToChatParent;
     public GoToChatButton chatButton;
@@ -71,7 +73,7 @@ public class PopUpManager : MonoBehaviour
 
     public void Awake()
     {
-        TimeRecord.Instance.CreatePlayerCsv();
+        //TimeRecord.Instance.CreatePlayerCsv();
         chatPopUpDic = new Dictionary<string, ChatPopup>();
         popUpDic = new Dictionary<string, BasePopUp>();
        // data = new FeedData();
@@ -99,10 +101,8 @@ public class PopUpManager : MonoBehaviour
         yield return new WaitForEndOfFrame();
 
         OpenDialog($"{UserData.Story.ToLower()}-1");
-        // OpenDialog($"story2-5");
+         //OpenDialog($"story2-19");
        // OpenChat("story1-8-2");
-       //OpenChat("story1-8-2");
-        // OpenChat($"Route1/story1-10-A-1");
         startObj.SetActive(false);
     }
 
@@ -356,6 +356,15 @@ public class PopUpManager : MonoBehaviour
         }
     }
 
+    public void GoHome()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+    public void SetDialogHistoryPos()
+    {
+        chatHistory.verticalNormalizedPosition = 0f;
+    }
 }
 [System.Serializable]
 public class FeedData

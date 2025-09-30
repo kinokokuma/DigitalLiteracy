@@ -497,6 +497,7 @@ MonoBehaviour:
   bell: {fileID: 8300000, guid: 82974bb77bbce38419f30672435a4d91, type: 3}
   drop: {fileID: 8300000, guid: f07fa308930598748981fd94fdea2929, type: 3}
   openBox: {fileID: 8300000, guid: f0d18ff4c39da52428d60c8cb0d71169, type: 3}
+  news: {fileID: 8300000, guid: cb18bb410f4931f47845c044d35b59a9, type: 3}
   source: {fileID: 860296184}
   BGMsource: {fileID: 754137589}
 --- !u!114 &860296186
