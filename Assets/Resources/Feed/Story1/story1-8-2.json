@@ -10,14 +10,14 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "{type}ไม่ได้ส่งไปหรอกหนูเจน "
+            "Content": "typeไม่ได้ส่งไปหรอกหนูเจน "
         },
         {
             "ID": "chat-02",
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "{type}เข้าลิงค์ไปดูแล้วมันแปลกๆ"
+            "Content": "typeเข้าลิงค์ไปดูแล้วมันแปลกๆ"
         }, 
         {
             "ID": "chat-02",
@@ -50,7 +50,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ถ้าส่งไปอาจจะเป็นช่องทางให้มิจฉาชีพเอาข้อมูลของ{type}ไปใช้ทำอย่างอื่นก็ได้นะคะ",
+            "Content": "ถ้าส่งไปอาจจะเป็นช่องทางให้มิจฉาชีพเอาข้อมูลของtypeไปใช้ทำอย่างอื่นก็ได้นะคะ",
             "LinkType": "page",
             "FileName": "T1-2"
            

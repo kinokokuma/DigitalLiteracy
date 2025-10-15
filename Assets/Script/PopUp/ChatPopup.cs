@@ -255,7 +255,14 @@ public class ChatPopup : BasePopUp
                     }
                     else
                     {
-                        
+                        if (UserData.UserSex == sex.male)
+                        {
+                            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ลุง");
+                        }
+                        else
+                        {
+                            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ป้า");
+                        }
                         ChatObjectBase chat = Instantiate(chatobject, chatParent);
                         chat.gameObject.SetActive(true);
                         chat.isSingle = data.Icon.Length >= 2 ? false : true;

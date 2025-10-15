@@ -184,14 +184,11 @@ public class DialogPopup : BasePopUp
                     if (UserData.UserSex == sex.male)
                     {
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ลุง");
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ค่ะ", "ครับ");
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("คะ", "ครับ");
+
                     }
                     else
                     {
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ป้า");
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end1", "คะ");
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end2", "ค่ะ");
                     }
                     oldIndex = chatIndex;
                     //Reload();

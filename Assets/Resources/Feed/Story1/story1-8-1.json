@@ -10,7 +10,7 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "{type}ส่งไปตั้งแต่เมื่อวานแล้วลูก"
+            "Content": "typeส่งไปตั้งแต่เมื่อวานแล้วลูก"
         }, {
             "ID": "chat-02",
             "OnwerName": "my",
