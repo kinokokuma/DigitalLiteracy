@@ -7,7 +7,7 @@
       "Content": "ณ ร้านอาหาร"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -19,7 +19,7 @@
       "Content": "เฮ้อ ป้าไม่น่าเห็นแก่ของถูกเลย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -31,7 +31,7 @@
       "Content": "น่าจะเชื่อที่หนูเจนบอก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -43,7 +43,7 @@
       "Content": "ว่าให้เช็คร้านดี ๆ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -64,7 +64,7 @@
           "Active": true
         }
       ],
-      "Content": "ไม่เป็นไรนะคะป้าก้อย"
+      "Content": "ไม่เป็นไรนะคะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -103,7 +103,7 @@
       "Content": "หรือเราไปแจ้งความกันด้วยดีไหมคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -115,7 +115,7 @@
       "Content": "ไม่เป็นไรหรอกหนู"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -136,7 +136,7 @@
           "Active": true
         }
       ],
-      "Content": "ไม่ได้นะคะป้าก้อย !!"
+      "Content": "ไม่ได้นะคะtypename !!"
     },
     {
       "OnwerName": "เจน",
@@ -163,7 +163,7 @@
       "Content": "อาจจะมีคนอื่นตกเป็นเหยื่อเพิ่มขึ้นนะคะ !!"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -196,7 +196,7 @@
           "Active": true
         }
       ],
-      "Content": "เจนขอเลี้ยงปลอบใจป้าก้อยนะคะ",
+      "Content": "เจนขอเลี้ยงปลอบใจtypenameนะคะ",
       "LinkType": "dialog",
       "FileName": "story2-18"
     }

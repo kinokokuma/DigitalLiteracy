@@ -3,7 +3,7 @@
     "BG": "house",
     "DataDetail": [
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -12,7 +12,7 @@
                 "Active" :false
             }
             ],
-            "Content": "{type}เปลี่ยนแล้วลูก เพราะหนูกําชับ{type}นี่แหละ"
+            "Content": "typeเปลี่ยนแล้วลูก เพราะหนูกําชับtypeนี่แหละ"
         },
         {
             "OnwerName": "เจน",
@@ -25,7 +25,7 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "เยี่ยมเลยค่ะป้าก้อย",
+            "Content": "เยี่ยมเลยค่ะtypename",
             "LinkType": "page",
             "FileName" : "T1"
         },
@@ -40,7 +40,7 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "แต่ป้าก้อยรู้ใช่ไหมคะ ว่ารหัสผ่านไม่ควรตั้งให้เดาได้ง่ายๆ",
+            "Content": "แต่typenameรู้ใช่ไหมคะ ว่ารหัสผ่านไม่ควรตั้งให้เดาได้ง่ายๆ",
             "LinkType": "page",
             "FileName" : "T1"
         }

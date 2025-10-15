@@ -17,7 +17,7 @@
 
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -29,7 +29,7 @@
       "Content": "เฮ้อ เหนื่อยมากเลย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -51,7 +51,7 @@
           "Active": true
         }
       ],
-      "Content": "ได้เลยค่ะ ป้าก้อย",
+      "Content": "ได้เลยค่ะ typename",
       "LinkType": "dialog",
       "FileName": "story2-16-2"
     }

@@ -3,7 +3,7 @@
     "BG": "house",
     "DataDetail": [
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -26,7 +26,7 @@
                 "Active" :true
             }
             ],
-            "Content": "เจนแนะนำให้ป้าก้อยเลือกจากร้านที่มีรีวิวและมีรูปภาพ"
+            "Content": "เจนแนะนำให้typenameเลือกจากร้านที่มีรีวิวและมีรูปภาพ"
         },
         {
             "OnwerName": "เจน",

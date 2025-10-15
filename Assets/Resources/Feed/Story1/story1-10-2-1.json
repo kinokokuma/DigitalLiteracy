@@ -13,7 +13,7 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "ป้าก้อยทำถูกแล้วค่ะ",
+            "Content": "typenameทำถูกแล้วค่ะ",
             "LinkType": "dialog",
             "FileName" : "story1-11-2"
             
@@ -28,7 +28,7 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "ไม่อย่างนั้นถ้ามีคนเก็บไปแล้วเขารู้รหัสของ{type}แล้วเอาไปกดเงินคงจะแย่แน่เลย",
+            "Content": "ไม่อย่างนั้นถ้ามีคนเก็บไปแล้วเขารู้รหัสของtypeแล้วเอาไปกดเงินคงจะแย่แน่เลย",
             "LinkType": "dialog",
             "FileName" : "story1-11-2"
             

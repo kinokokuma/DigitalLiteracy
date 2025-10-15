@@ -13,7 +13,7 @@ public class UserData : MonoBehaviour
     public static string UserID;
     public static string Story;
     public static string UserName;
-    public static string UserSex;
+    public static sex UserSex;
     public static bool UserPass =false;
     public static bool S2Pass = false;
     //public static ImageUrl data;
@@ -61,7 +61,7 @@ public class UserData : MonoBehaviour
             nextPage.interactable = true;
         }
         UserName = inputName.text;
-        UserSex = dropdownSex.captionText.text=="ชาย"?"ลุง":"ป้า";
+        UserSex = dropdownSex.value==0?sex.male:sex.women;
         print(UserSex);
     }
 
@@ -96,4 +96,10 @@ public class UserData : MonoBehaviour
             }
         }
     }
+}
+
+public enum sex 
+{
+male,
+women
 }

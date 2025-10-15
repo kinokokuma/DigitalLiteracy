@@ -3,7 +3,7 @@
   "BG": "house ",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "ป้าไม่บอกหรอก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -27,7 +27,7 @@
       "Content": "ถึงบอกไปก็ไม่เชื่อป้าอยู่ดี"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -48,7 +48,7 @@
           "Active": true
         }
       ],
-      "Content": "เจนว่าป้าก้อยควรบอกนะคะ"
+      "Content": "เจนว่าtypenameควรบอกนะคะ"
     },
     {
       "OnwerName": "เจน",
@@ -63,7 +63,7 @@
       "Content": "จะเชื่อไม่เชื่อก็แล้วแต่เขา"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -75,7 +75,7 @@
       "Content": "ใช่ลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

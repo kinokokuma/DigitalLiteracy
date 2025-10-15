@@ -3,7 +3,7 @@
   "BG": "house ",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "ป้าเองก็มีไลน์กลุ่มกับเพื่อน ๆ ป้าเหมือนกัน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -27,7 +27,7 @@
       "Content": "เมื่อก่อนก็มีช่วงที่ส่งลิ้งค์ข่าวแปลก ๆ มา"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -41,7 +41,7 @@
       "Sound":"newChat"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -54,7 +54,7 @@
       "AddImage":"image/story3/face"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -67,7 +67,7 @@
       "AddImage":"image/story3/face"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -81,7 +81,7 @@
       "Sound":"newChat"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -107,7 +107,7 @@
       "AddImage":"image/story3/face2"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -120,7 +120,7 @@
       "AddImage":"image/story3/face2"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -133,7 +133,7 @@
       "AddImage":"image/story3/face2"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -146,7 +146,7 @@
       "AddImage":"image/story3/face2"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -159,7 +159,7 @@
       "AddImage":"image/story3/face2"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -172,7 +172,7 @@
       "AddImage":"image/story3/face2"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -210,7 +210,7 @@
       "Content": "แล้วเพื่อนป้าได้แจ้งตำรวจไหมคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -222,7 +222,7 @@
       "Content": "แจ้งสิ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

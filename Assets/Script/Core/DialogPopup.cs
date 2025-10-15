@@ -101,10 +101,10 @@ public class DialogPopup : BasePopUp
         if (data.DataDetail.Length > chatIndex)
         {
 
-            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("test2", $"C2");
+            /*data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("test2", $"C2");
             data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("{test1}", $"C1");
             data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ฮะ", $"ha");
-            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("gender", $"{UserData.UserSex}");
+            data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("gender", $"{UserData.UserSex}");*/
             if (data.DataDetail.Length-1 == chatIndex)
             {
                 //nextChat.gameObject.SetActive(false);
@@ -112,9 +112,20 @@ public class DialogPopup : BasePopUp
 
             if (data.DataDetail[chatIndex].Choice != null)
             {
-                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้า", $"{UserData.UserSex}");
-                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ก้อย", $"{UserData.UserName}");
-                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("{type}", UserData.UserSex);
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("name", $"{UserData.UserName}");
+                if (UserData.UserSex == sex.male)
+                {
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ลุง");
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end1", "ครับ");
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end2", "ครับ");
+                }
+                else
+                {
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ป้า");
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end1", "คะ");
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end2", "ค่ะ");
+                }
+
                 if (data.DataDetail[chatIndex].Choice.Length > 0)
                 {
                     //CreateLike();
@@ -137,20 +148,24 @@ public class DialogPopup : BasePopUp
             }
             else
             {
-                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้า", $"{UserData.UserSex}");
-                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ก้อย", $"{UserData.UserName}");
-                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("{type}", UserData.UserSex);
+                data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("name", $"{UserData.UserName}");
                 if (data.DataDetail[chatIndex].ChatSide == "right")
                 {
                     if (data.DataDetail[chatIndex].DelayTime == 1)
                     {
                         data.DataDetail[chatIndex].DelayTime = 3;
                     }
-                    if (UserData.UserSex == "ลุง")
+                    if (UserData.UserSex == sex.male)
                     {
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ป้า", "ลุง");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ลุง");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ค่ะ", "ครับ");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("คะ", "ครับ");
+                    }
+                    else
+                    {
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ป้า");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end1", "คะ");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end2", "ค่ะ");
                     }
 
                     if (oldIndex != chatIndex || oldIndex == 0)
@@ -166,10 +181,17 @@ public class DialogPopup : BasePopUp
                 }
                 else
                 {
-                    if ( UserData.UserSex == "หญิง")
+                    if (UserData.UserSex == sex.male)
                     {
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ลุง");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ค่ะ", "ครับ");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("คะ", "ครับ");
+                    }
+                    else
+                    {
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ป้า");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end1", "คะ");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end2", "ค่ะ");
                     }
                     oldIndex = chatIndex;
                     //Reload();

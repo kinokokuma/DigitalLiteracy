@@ -3,17 +3,17 @@
   "BG": "house",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "Content": "อย่าเพิ่งเห็นแก่ของถูกสิก้อย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "Content": "ต้องเช็คก่อนว่าจะโดนหลอกไหม"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "Content": "ไหนดูร้านที่ขายสิ",
       "LinkType": "dialog",

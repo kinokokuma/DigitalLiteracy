@@ -3,7 +3,7 @@
   "BG": "house ",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "ป้าพิมพ์บอกไปแล้วนะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -27,7 +27,7 @@
       "Content": "ว่าที่แชร์มาน่ะเป็นข่าวปลอม"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -39,7 +39,7 @@
       "Content": "อาจจะเป็นมิจฉาชีพด้วยก็ได้"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -60,10 +60,10 @@
           "Active": true
         }
       ],
-      "Content": "แล้วเพื่อน ๆ ป้าก้อยเชื่อไหมคะ"
+      "Content": "แล้วเพื่อน ๆ typenameเชื่อไหมคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -75,7 +75,7 @@
       "Content": "บางคนก็เชื่อ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -87,7 +87,7 @@
       "Content": "บางคนก็ไม่เชื่อน่ะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -123,7 +123,7 @@
       "Content": "ทำไมเค้าพูดไม่ดีเลย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -135,7 +135,7 @@
       "Content": "ช่างเขาเถอะลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -155,7 +155,7 @@
           "Active": false
         }
       ],
-      "Content": "ควรทำอย่างไรดี ให้คนที่ไ่ม่เชื่อหันมาเชื่อป้าก้อย ว่าเป็นข่าวปลอม",
+      "Content": "ควรทำอย่างไรดี ให้คนที่ไ่ม่เชื่อหันมาเชื่อtypename ว่าเป็นข่าวปลอม",
       "Choice": [
         {
           "ID": "001",

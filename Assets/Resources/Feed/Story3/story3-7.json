@@ -3,7 +3,7 @@
   "BG": "house ",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "จริงด้วย ข่าวปลอมนี่"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -27,7 +27,7 @@
       "Content": "เพจของ OR นี่"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -39,7 +39,7 @@
       "Content": "เค้าเป็นเพจของเจ้าของแบรนด์"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -60,7 +60,7 @@
           "Active": true
         }
       ],
-      "Content": "ใช่ค่ะป้าก้อย"
+      "Content": "ใช่ค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -87,7 +87,7 @@
       "Content": "ที่ใช้ทำประชาสัมพันธ์ของ OR ค่ะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -99,7 +99,7 @@
       "Content": "เกือบไปแล้วนะเนี่ย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -111,7 +111,7 @@
       "Content": "ดีนะที่เช็คก่อน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -123,7 +123,7 @@
       "Content": "ไม่งั้นคงโดนหลอก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -144,7 +144,7 @@
           "Active": true
         }
       ],
-      "Content": "จริงค่ะป้าก้อย"
+      "Content": "จริงค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -195,7 +195,7 @@
       "Content": "ยังไงก็ได้กำไรชัวร์"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -207,7 +207,7 @@
       "Content": "แล้วหนูเจนมีที่เช็คข่าวปลอมอีกไหมลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -228,7 +228,7 @@
           "Active": true
         }
       ],
-      "Content": "มีแน่นอนอยู่แล้วสิคะป้าก้อย"
+      "Content": "มีแน่นอนอยู่แล้วสิคะtypename"
     },
     {
       "OnwerName": "เจน",

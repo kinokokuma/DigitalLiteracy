@@ -4,9 +4,6 @@
     "DataDetail": [
         {
             "ChatSide": "mid",
-            "Content": "test \n {test1} test2 \n ฮะ gender"
-        },{
-            "ChatSide": "mid",
             "Content": "วันหนึ่งในประเทศไทย"
         },
         {
@@ -20,7 +17,7 @@
                 "Active" :true
             }
             ],
-            "Content": "ป้าก้อย สวัสดีปีใหม่นะคะ"
+            "Content": "typename สวัสดีปีใหม่นะคะ"
         },
         {
             "OnwerName": "เจน",

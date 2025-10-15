@@ -3,7 +3,7 @@
   "BG": "house ",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "คาเฟ่อเมซอน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -27,7 +27,7 @@
       "Content": "ที่อยู่ตามปั๊มน้ำมันน่ะเหรอ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -39,7 +39,7 @@
       "Content": "เริ่มต้นที่ 1,000 บาท"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -59,7 +59,7 @@
           "Active": false
         }
       ],
-      "Content": "ป้าก้อยควรซื่อตามเพื่อนเลยหรือไม่?",
+      "Content": "typenameควรซื่อตามเพื่อนเลยหรือไม่?",
       "Choice": [
         {
           "ID": "001",

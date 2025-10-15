@@ -3,7 +3,7 @@
     "BG": "house",
     "DataDetail": [
 {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -12,7 +12,7 @@
                 "Active" :false
             }
             ],
-            "Content": " ต้องเปลี่ยนด้วยหรอ {type}ไม่เห็นว่ามันจะสําคัญเลย ถ้าเราไม่ได้บอกใคร "
+            "Content": " ต้องเปลี่ยนด้วยหรอ typeไม่เห็นว่ามันจะสําคัญเลย ถ้าเราไม่ได้บอกใคร "
         },
         {
             "OnwerName": "เจน",
@@ -24,10 +24,10 @@
                 "Active" :true
             }
             ],
-            "Content": "ป้าก้อยไม่ได้เปลี่ยนรหัสผ่านมา 1 ปีแล้วเหรอคะ"
+            "Content": "typenameไม่ได้เปลี่ยนรหัสผ่านมา 1 ปีแล้วเหรอคะ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -37,12 +37,12 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "{type}กลัว{type}จำไม่ได้นี่ลูก",
+            "Content": "typeกลัวtypeจำไม่ได้นี่ลูก",
             "LinkType": "page",
             "FileName" : "T1"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -52,7 +52,7 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "หนูเจน{type}จะทำยังไงดี",
+            "Content": "หนูเจนtypeจะทำยังไงดี",
             "LinkType": "page",
             "FileName" : "T1"
         }

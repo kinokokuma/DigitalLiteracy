@@ -3,7 +3,7 @@
     "BG": "house",
     "DataDetail": [
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
 
@@ -15,7 +15,7 @@
             ],
             "Content": "คงไม่เป็นไรหรอกมั้งหนูเจน"
         },{
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -37,7 +37,7 @@
             }
             ],
             "ChatType": "Normal",
-            "Content": "ป้าก้อยคะ",
+            "Content": "typenameคะ",
             "LinkType": "dialog",
             "FileName" : "story1-11-2"
         },

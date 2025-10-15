@@ -178,14 +178,19 @@ public class ChatNormal : ChatObjectBase
                 {
                     contentSize.horizontalFit = ContentSizeFitter.FitMode.Unconstrained;
                 }
-                string text = data.Content.Replace("{Player}", UserData.UserName);
-                text = text.Replace("{player}", UserData.UserName);
+                string text = data.Content.Replace("name", UserData.UserName);
+                text = text.Replace("name", UserData.UserName);
                 if (data.OnwerName == "my")
                 {
-                    if (UserData.UserSex == "ลุง")
+                    if (UserData.UserSex == sex.male)
                     {
-                        text = text.Replace("ค่ะ", "ครับ");
-                        text = text.Replace("คะ", "ครับ");
+                        text = text.Replace("end1", "ครับ");
+                        text = text.Replace("end2", "ครับ");
+                    }
+                    else
+                    {
+                        text = text.Replace("end1", "คะ");
+                        text = text.Replace("end2", "ค่ะ"); 
                     }
                 }
                 content.text = text;

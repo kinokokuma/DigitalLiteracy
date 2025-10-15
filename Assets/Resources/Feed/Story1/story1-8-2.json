@@ -39,7 +39,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าก้อยทำถูกแล้วค่ะ",
+            "Content": "typenameทำถูกแล้วค่ะ",
             "LinkType": "dialog",
             "FileName": "story1-12-2"
            

@@ -3,7 +3,7 @@
   "BG": "house ",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "เอาจริง ๆ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -27,7 +27,7 @@
       "Content": "ช่วงนี้ป้ากับหลานรู้สึกว่างมากเลย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -39,7 +39,7 @@
       "Content": "อยากจะหาอะไรทำ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -51,7 +51,7 @@
       "Content": "ให้มันมีรายได้เข้ามาบ้าง"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -72,7 +72,7 @@
           "Active": true
         }
       ],
-      "Content": "ได้สิคะป้าก้อย"
+      "Content": "ได้สิคะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -84,7 +84,7 @@
           "Active": true
         }
       ],
-      "Content": "ป้าก้อยอยากทำแบบไหนเหรอคะ"
+      "Content": "typenameอยากทำแบบไหนเหรอคะ"
     },
     {
       "OnwerName": "เจน",
@@ -135,7 +135,7 @@
       "Content": "คุณพ่อก็กำลังเทรดเหมือนกันค่ะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -147,7 +147,7 @@
       "Content": "เทรดอะไรนะลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -159,7 +159,7 @@
       "Content": "แบบนั้นป้าน่าจะทำไม่เป็นหรอก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -171,7 +171,7 @@
       "Content": "แต่มีแบบที่ซื้อแล้วรอเอาเงินปันผลอยู่นี่"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -219,7 +219,7 @@
       "Content": "แล้วเก็บเป็นเงินเกษียณก็ทำได้นะคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -231,7 +231,7 @@
       "Content": "อืม… น่าสนใจนะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -249,7 +249,7 @@
 
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -261,7 +261,7 @@
       "Content": "นี่ไงพูดยังไม่ทันขาดคำ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

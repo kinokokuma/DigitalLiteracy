@@ -12,7 +12,7 @@
           "Active": true
         }
       ],
-      "Content": "เดี๋ยวก่อนค่ะป้าก้อย"
+      "Content": "เดี๋ยวก่อนค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -24,7 +24,7 @@
           "Active": true
         }
       ],
-      "Content": "ป้าก้อยจะซื้อตามเพื่อน ๆ เลยเหรอคะ"
+      "Content": "typenameจะซื้อตามเพื่อน ๆ เลยเหรอคะ"
     },
     {
       "OnwerName": "เจน",
@@ -75,7 +75,7 @@
       "Content": "ดูเหมือนไม่มีความจำเป็นที่จะต้องเอาเงินจากการขายหุ้นเลยนะคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -87,7 +87,7 @@
       "Content": "นั่นสิ เค้าดูมั่นคงจะตายไปนี่นา"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

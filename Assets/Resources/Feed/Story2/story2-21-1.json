@@ -38,7 +38,7 @@
           "Active": true
         }
       ],
-      "Content": "ป้าก้อยคะ !!"
+      "Content": "typenameคะ !!"
     },
     {
       "OnwerName": "เจน",
@@ -65,7 +65,7 @@
       "Content": "เหมือนมีสติกเกอร์แปะไว้เลยค่ะ !"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -77,7 +77,7 @@
       "Content": "จริงด้วย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -89,7 +89,7 @@
       "Content": "เกือบไปแล้ว"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -101,7 +101,7 @@
       "Content": "ดีนะที่เช็คก่อน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

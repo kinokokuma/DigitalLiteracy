@@ -3,7 +3,7 @@
   "BG": "house ",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "โอ้โฮ ดีมากเลยหนูเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -36,7 +36,7 @@
           "Active": true
         }
       ],
-      "Content": "จริงเหรอคะป้าก้อย"
+      "Content": "จริงเหรอคะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -63,7 +63,7 @@
       "Content": "เว็บไซต์นี้ไม่ค่อยมีการโปรโมทด้วยแหละค่ะ OR"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -84,7 +84,7 @@
           "Active": true
         }
       ],
-      "Content": "คะป้าก้อย"
+      "Content": "ค่ะtypename"
     },
     {
       "ChatSide": "mid",
@@ -95,7 +95,7 @@
           "Active": false
         }
       ],
-      "Content": "ควรบอกเพื่อนในไลน์ป้าก้อยไหม ว่าเป็นข่าวปลอม หรืออาจจะเป็นมิจฉาชีพ",
+      "Content": "ควรบอกเพื่อนในไลน์typenameไหม ว่าเป็นข่าวปลอม หรืออาจจะเป็นมิจฉาชีพ",
       "Choice": [
         {
           "ID": "001",

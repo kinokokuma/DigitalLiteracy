@@ -21,7 +21,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าก้อยคะ",
+            "Content": "typenameคะ",
             "PostImage": "",
             "LinkToPageName": ""
         },
@@ -40,14 +40,14 @@
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "พูดถึงเรื่องเมื่อวันก่อน{type}ก็โชคดีเหมือนกัน"
+            "Content": "พูดถึงเรื่องเมื่อวันก่อนtypeก็โชคดีเหมือนกัน"
         }, 
         {
             "ID": "chat-02",
             "OnwerName": "my",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "มีคนส่งข้อความมาหา{type}ว่า{type}เป็นผู้โชคดีได้รางวัลใหญ่ด้วยนะลูก"
+            "Content": "มีคนส่งข้อความมาหาtypeว่าtypeเป็นผู้โชคดีได้รางวัลใหญ่ด้วยนะลูก"
         }, 
         {
             "ID": "chat-02",
@@ -55,7 +55,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "โอ้โห ไหนคะป้าก้อย"
+            "Content": "โอ้โห ไหนคะtypename"
         },{
             "ID": "chat-02",
             "OnwerName": "เจน",
@@ -70,7 +70,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "{type}จำได้ว่าเราต้องเช็คก่อนว่าน่าเชื่อถือรึเปล่า"
+            "Content": "typeจำได้ว่าเราต้องเช็คก่อนว่าน่าเชื่อถือรึเปล่า"
         }, 
         {
             "ID": "chat-02",

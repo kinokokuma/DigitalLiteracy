@@ -24,7 +24,7 @@
       "AddImage":"image/Story3/news"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -36,7 +36,7 @@
       "Content": "เดี๋ยวนี้ข่าวปลอมเยอะจังเนอะหนูเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -57,7 +57,7 @@
           "Active": true
         }
       ],
-      "Content": "จริงค่ะป้าก้อย"
+      "Content": "จริงค่ะtypename"
     },
     {
       "OnwerName": "เจน",

@@ -4,10 +4,10 @@
   "DataDetail": [
     {
       "ChatSide": "mid",
-      "Content": "1 เดือนต่อมา ระหว่างที่ป้าก้อยกำลังคุยโทรศัพท์กับแม่ของเจน"
+      "Content": "1 เดือนต่อมา ระหว่างที่typenameกำลังคุยโทรศัพท์กับแม่ของเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -40,7 +40,7 @@
           "Active": true
         }
       ],
-      "Content": "เจนลูก ป้าก้อยอยากคุยด้วย"
+      "Content": "เจนลูก typenameอยากคุยด้วย"
     },
     {
       "OnwerName": "เจน",
@@ -52,10 +52,10 @@
           "Active": true
         }
       ],
-      "Content": "คะป้าก้อย"
+      "Content": "คะtypename"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -67,7 +67,7 @@
       "Content": "เป็นอย่างไรบ้างหนูเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -79,7 +79,7 @@
       "Content": "สบายดีใช่ไหมลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -91,7 +91,7 @@
       "Content": "ตั้งแต่เจนกลับบ้าน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -112,7 +112,7 @@
           "Active": true
         }
       ],
-      "Content": "เจนสบายดีค่ะป้าก้อย"
+      "Content": "เจนสบายดีค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -127,7 +127,7 @@
       "Content": "โธ่ เดี๋ยวเจนจะแวะไปหาบ่อย ๆ นะคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -139,7 +139,7 @@
       "Content": "วันก่อนเจนเห็นข่าวไหมลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -172,7 +172,7 @@
           "Active": true
         }
       ],
-      "Content": "เจนเห็นแล้วค่ะป้าก้อย"
+      "Content": "เจนเห็นแล้วค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -199,7 +199,7 @@
       "Content": "เห็นว่ามูลค่าความเสียหาย 1,000 กว่าล้านเลยนะคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -211,7 +211,7 @@
       "Content": "นั่นแหละลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -223,7 +223,7 @@
       "Content": "ป้าอยากมาขอบคุณหนูเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -235,7 +235,7 @@
       "Content": "ที่วันนั้นเตือนป้า"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -247,7 +247,7 @@
       "Content": "แล้วเพื่อนป้าหลาย ๆ คน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -268,7 +268,7 @@
           "Active": true
         }
       ],
-      "Content": "อะไรกันคะป้าก้อย"
+      "Content": "อะไรกันคะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -307,7 +307,7 @@
       "Content": "ก็เลยทักไปเท่านั้นเอง"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -319,7 +319,7 @@
       "Content": "แต่ก็ปฏิเสธไม่ได้ว่า"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -331,7 +331,7 @@
       "Content": "หนูเจนเป็นคนช่วยเตือนสติ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -343,7 +343,7 @@
       "Content": "ป้ากับเพื่อน ๆ ป้าเอาไว้นะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -355,7 +355,7 @@
       "Content": "ถ้าไม่ได้หนูเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -367,7 +367,7 @@
       "Content": "ป่านนี้ป้ากับเพื่อน ๆ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -379,7 +379,7 @@
       "Content": "คงจะได้รับความเสียหาย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -400,7 +400,7 @@
           "Active": true
         }
       ],
-      "Content": "แต่ก็มีเพื่อนป้าก้อยหลายคน"
+      "Content": "แต่ก็มีเพื่อนtypenameหลายคน"
     },
     {
       "OnwerName": "เจน",
@@ -424,10 +424,10 @@
           "Active": true
         }
       ],
-      "Content": "เค้าเป็นยังไงบ้างเหรอคะป้าก้อย"
+      "Content": "เค้าเป็นยังไงบ้างเหรอคะtypename"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -439,7 +439,7 @@
       "Content": "ก็เสียหายหนักพอสมควรเลยลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -451,7 +451,7 @@
       "Content": "เหมือนจะเอาบ้าน เอารถ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -475,7 +475,7 @@
       "Content": "ขนาดนั้นเลยเหรอคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -487,7 +487,7 @@
       "Content": "แต่เราก็เตือนเค้าแล้ว"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -499,7 +499,7 @@
       "Content": "อะไรที่ทำได้เราก็ทำแล้ว"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -511,7 +511,7 @@
       "Content": "คงเป็นวาสนาของใครของมันแล้วลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -523,7 +523,7 @@
       "Content": "ป้ากับเพื่อน ๆ มีค่าขนมให้หนูเจนด้วย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

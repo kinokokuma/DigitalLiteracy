@@ -17,7 +17,7 @@
           "Active": true
         }
       ],
-      "Content": "เดี๋ยวก่อนค่ะป้าก้อย"
+      "Content": "เดี๋ยวก่อนค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -44,7 +44,7 @@
       "Content": "เดี๋ยวเจนโอนคืนให้นะคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -56,7 +56,7 @@
       "Content": "รับไปเถอะลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -68,7 +68,7 @@
       "Content": "ถือว่าเป็นคำขอบคุณจากป้าและเพื่อน ๆ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -80,7 +80,7 @@
       "Content": "ความจริงแล้วป้ากับเพื่อนอยากให้เยอะกว่านี้"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -92,7 +92,7 @@
       "Content": "แต่แม่หนูขอไว้ เพราะหนูยังเด็กอยู่เลย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -104,7 +104,7 @@
       "Content": "หลังจากนี้ไป"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -116,7 +116,7 @@
       "Content": "ป้ากับเพื่อน ๆ ตกลงกันแล้วว่า"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -128,7 +128,7 @@
       "Content": "จะไม่แชร์ลิ้งค์อะไรลงไลน์กลุ่ม"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -140,7 +140,7 @@
       "Content": "ถ้าไม่เช็คว่าเป็นข่าวจริงก่อน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -161,10 +161,10 @@
           "Active": true
         }
       ],
-      "Content": "ดีเลยค่ะป้าก้อย"
+      "Content": "ดีเลยค่ะtypename"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -176,7 +176,7 @@
       "Content": "ว่าแต่เว็บไซต์ที่หนูเจนใช้เช็คข่าวปลอม"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -197,7 +197,7 @@
           "Active": true
         }
       ],
-      "Content": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย ค่ะป้าก้อย",
+      "Content": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย ค่typename",
       "LinkType": "page",
       "FileName": "end3"
     }

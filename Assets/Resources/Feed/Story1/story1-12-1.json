@@ -75,7 +75,7 @@
         },
         
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -87,7 +87,7 @@
             "Content": "เฮ้ย! ทำไมมีแจ้งเตือนเงินออกจากบัญชีล่ะ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -125,7 +125,7 @@
             "Content": "ก่อนอื่นเราควรจะติดต่อธนาคารเพื่อระงับบัญชีก่อน แล้วไปแจ้งตำรวจกันนะคะ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
 

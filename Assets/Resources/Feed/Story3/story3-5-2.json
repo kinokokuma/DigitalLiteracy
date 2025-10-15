@@ -12,7 +12,7 @@
           "Active": true
         }
       ],
-      "Content": "ป้าก้อยคะ เจนลองเช็คให้แล้ว"
+      "Content": "typenameคะ เจนลองเช็คให้แล้ว"
     },
     {
       "OnwerName": "เจน",
@@ -41,7 +41,7 @@
       "AddImage" : "image/story3/faceAret"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

@@ -11,7 +11,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าก้อยคะ ",
+            "Content": "typenameคะ ",
             "PostImage": "",
             "LinkToPageName": ""
         }, 
@@ -41,7 +41,7 @@
             "Icon": "Image/Story1/profileJ",
             "ChatType": "Normal",
             "DelayTime": 3,
-            "Content": "ป้าก้อยยังไม่ได้ส่งไปใช่ไหมคะ",
+            "Content": "typenameยังไม่ได้ส่งไปใช่ไหมคะ",
             "PostImage": "",
             "LinkToPageName": ""
         }, 

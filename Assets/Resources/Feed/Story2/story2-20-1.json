@@ -3,13 +3,13 @@
   "BG": "res",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "Content": "อ้าว ? ทำไมสแกนแล้ว",
             "AddImage":"image/Story2/bill red"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": " right",
       "Content": "ชื่อคนรับไม่ตรงกับชื่อที่ร้านแปะไว้ล่ะ ?",
       "LinkType": "dialog",

@@ -3,7 +3,7 @@
   "BG": "res",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "อาหารอร่อยมาก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -36,7 +36,7 @@
           "Active": true
         }
       ],
-      "Content": "จริงค่ะป้าก้อย"
+      "Content": "จริงค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -96,7 +96,7 @@
           "Active": true
         }
       ],
-      "Content": "ป้าก้อยคะ"
+      "Content": "typenameคะ"
     },
     {
       "OnwerName": "เจน",
@@ -120,10 +120,10 @@
           "Active": true
         }
       ],
-      "Content": "มารบกวนป้าก้อยหลายวันแล้วด้วย"
+      "Content": "มารบกวนtypenameหลายวันแล้วด้วย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -135,7 +135,7 @@
       "Content": "ไม่ได้นะหนูเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -147,7 +147,7 @@
       "Content": "ป้าจ่ายเองลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -159,7 +159,7 @@
       "Content": "จะให้หลานตัวเท่านี้เลี้ยงได้ยังไง"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

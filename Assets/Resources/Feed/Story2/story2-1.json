@@ -16,7 +16,7 @@
             "Content": "ว้าว! อันนั้นก็อยากได้ "
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -29,7 +29,7 @@
             "Content": "อ้าว….หนูเจนมานั่งทำอะไรตรงนี้ล่ะ ?"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -51,7 +51,7 @@
                 "Active" :true
             }
             ],
-            "Content": "ไม่ร้อนหรอกค่ะ ป้าก้อย〜"
+            "Content": "ไม่ร้อนหรอกค่ะ typename〜"
         },{
             "OnwerName": "เจน",
             "ChatSide": "left",
@@ -63,7 +63,7 @@
                 "Active" :true
             }
             ],
-            "Content": "หน้าบ้านป้าก้อยมีต้นไม้เยอะจะตาย"
+            "Content": "หน้าบ้านtypenameมีต้นไม้เยอะจะตาย"
         },{
             "OnwerName": "เจน",
             "ChatSide": "left",
@@ -90,7 +90,7 @@
             "Content": "เจนกำลังชอปปิ้งออนไลน์อยู่ค่ะคุณป้า"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -103,7 +103,7 @@
             "Content": "ชอปปิ้งเหรอ…"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -116,7 +116,7 @@
             "Content": "อ๋อ ！ที่ซื้อของในแอพฯ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -139,7 +139,7 @@
                 "Active" :true
             }
             ],
-            "Content": "ใช่แล้วค่ะ ป้าก้อย"
+            "Content": "ใช่แล้วค่ะ typename"
         },
         {
             "OnwerName": "เจน",
@@ -182,7 +182,7 @@
         }
         ,
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -195,7 +195,7 @@
             "Content": "หนูเจนสอนป้าหน่อยสิ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -208,7 +208,7 @@
             "Content": "ว่ามันใช้ยังไงป้าก็อายุอานามเยอะแล้ว"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -221,7 +221,7 @@
             "Content": "ไม่ค่อยอยากขับรถเข้าไปซื้อในเมืองเท่าไหร่"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -234,7 +234,7 @@
             "Content": "ให้เขาเอามาส่งที่บ้านก็ดี"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -257,7 +257,7 @@
                 "Active" :true
             }
             ],
-            "Content": "ได้เลยค่ะ ป้าก้อย"
+            "Content": "ได้เลยค่ะ typename"
         }
         ,
         {
@@ -271,10 +271,10 @@
                 "Active" :true
             }
             ],
-            "Content": "ก่อนอื่นเลย ป้าก้อยอยากจะซื้ออะไรคะ ?"
+            "Content": "ก่อนอื่นเลย typenameอยากจะซื้ออะไรคะ ?"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -287,7 +287,7 @@
             "Content": "อืม………"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -300,7 +300,7 @@
             "Content": "ป้าอยากได้ของขวัญให้หลานน่ะ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -313,7 +313,7 @@
             "Content": "จะถึงวันเกิดหลานแล้ว"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -336,7 +336,7 @@
                 "Active" :true
             }
             ],
-            "Content": "ได้เลยค่ะ ป้าก้อย"
+            "Content": "ได้เลยค่ะ typename"
         },
         {
             "OnwerName": "เจน",
@@ -352,7 +352,7 @@
             "Content": "งั้นเราก็ต้องพิมพ์ค้นหาไปว่า “เข็มขัดหนัง” นะคะ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -366,7 +366,7 @@
             "AddImage":"image/Story2/belt"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -390,7 +390,7 @@
                 "Active" :true
             }
             ],
-            "Content": "เจนมีวิธีเลือกง่าย ๆ อยู่ค่ะป้าก้อย",
+            "Content": "เจนมีวิธีเลือกง่าย ๆ อยู่ค่ะtypename",
             "AddImage":"image/Story2/belt"
         },
         
@@ -404,7 +404,7 @@
                 "Active" :true
             }
             ],
-            "Content" : "ป้าก้อยคิดว่า ถ้าซื้อของผ่านแอปพลิเคชั่น ควรเลือกซื้อจากร้านแบบไหน ถึงจะปลอดภัยที่สุดคะ",
+            "Content" : "typenameคิดว่า ถ้าซื้อของผ่านแอปพลิเคชั่น ควรเลือกซื้อจากร้านแบบไหน ถึงจะปลอดภัยที่สุดคะ",
             "Choice" : [
                 {   "ID" : "001",
                     "Path": "ร้านที่มีคะแนนรีวิวเยอะ ๆ แต่ไม่มีคอมเมนต์",

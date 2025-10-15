@@ -3,7 +3,7 @@
   "BG": "house ",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -15,7 +15,7 @@
       "Content": "ป้าซื้อไปแล้วนะ เพื่อนป้าก็ซื้อ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -27,7 +27,7 @@
       "Content": "คาเฟ่อเมซอนมีสาขาเยอะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -39,7 +39,7 @@
       "Content": "ถ้าเราลงทุนซื้อหุ้นไปเยอะขนาดนี้"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -51,7 +51,7 @@
       "Content": "ยังไงก็ได้กำไรแน่นอน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -84,7 +84,7 @@
           "Active": true
         }
       ],
-      "Content": "ป้าก้อยใช้เงินเก็บทั้งหมดซื้อเลยเหรอคะ"
+      "Content": "typenameใช้เงินเก็บทั้งหมดซื้อเลยเหรอคะ"
     },
     {
       "OnwerName": "เจน",
@@ -96,10 +96,10 @@
           "Active": true
         }
       ],
-      "Content": "ถ้าเป็นมิจฉาชีพจะทำยังไงคะป้าก้อย"
+      "Content": "ถ้าเป็นมิจฉาชีพจะทำยังไงคะtypename"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -111,7 +111,7 @@
       "Content": "โธ่ หนูเจน ไม่ใช่มิจฉาชีพหรอก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {

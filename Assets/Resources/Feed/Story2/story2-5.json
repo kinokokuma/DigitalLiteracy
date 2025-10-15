@@ -3,7 +3,7 @@
     "BG": "house",
     "DataDetail": [
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -16,7 +16,7 @@
             "Content": "งั้นป้าเลือกร้านนี้แหละ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -39,7 +39,7 @@
                 "Active" :true
             }
             ],
-            "Content": "ใช่ค่ะ ป้าก้อย"
+            "Content": "ใช่ค่ะ typename"
         },
         {
             "OnwerName": "เจน",
@@ -94,7 +94,7 @@
             "Content": "หรือแบบตัดบัตรเครดิตก็มีนะคะ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -107,7 +107,7 @@
             "Content": "อย่างนี้นี่เอง ป้าเข้าใจแล้วล่ะ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             
@@ -130,7 +130,7 @@
                 "Active" :true
             }
             ],
-            "Content": "ไม่เป็นไรค่ะป้าก้อย"
+            "Content": "ไม่เป็นไรค่ะtypename"
         },
         {
             "OnwerName": "เจน",
@@ -159,7 +159,7 @@
             "Content": "งั้นเจนขอตัวไปโทรศัพท์คุยกับคุณพ่อก่อนนะคะ"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             ],

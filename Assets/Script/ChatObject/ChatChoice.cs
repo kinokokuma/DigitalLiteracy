@@ -56,6 +56,6 @@ public class ChatChoice : MonoBehaviour
     {
         this.dataText = data;
         this.index = index;
-        text.text = UserData.UserSex == "≈ÿß" ?data.Path.Replace("{type}", UserData.UserSex) : data.Path;
+        text.text = UserData.UserSex == sex.male ? data.Path.Replace("type", "≈ÿß") : data.Path.Replace("type", "ªÈ“");
     }
 }

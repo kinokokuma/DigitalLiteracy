@@ -12,7 +12,7 @@
           "Active": true
         }
       ],
-      "Content": "เอ๊ะ ! ป้าก้อยคะ"
+      "Content": "เอ๊ะ ! typenameคะ"
     },
     {
       "OnwerName": "เจน",
@@ -24,7 +24,7 @@
           "Active": true
         }
       ],
-      "Content": "ป้าก้อยสั่งทีวีมาใช่ไหมคะ ?"
+      "Content": "typenameสั่งทีวีมาใช่ไหมคะ ?"
     },
     {
       "OnwerName": "เจน",
@@ -40,7 +40,7 @@
       "Sound":"drop"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -52,7 +52,7 @@
       "Content": "ป้าสั่งทีวีมานะหนูเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -73,7 +73,7 @@
           "Active": true
         }
       ],
-      "Content": "ป้าก้อยคะ ! ร้านนี้มันแปลก ๆ นะคะ"
+      "Content": "typenameคะ ! ร้านนี้มันแปลก ๆ นะคะ"
     },
     {
       "OnwerName": "เจน",

@@ -3,18 +3,18 @@
   "BG": "house",
   "DataDetail": [
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "Content": "เรียบร้อย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
 
       "Content": "จ่ายเงินเสร็จแล้ว"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "Content": "รอของมาส่งดีกว่า",
       "LinkType": "page",

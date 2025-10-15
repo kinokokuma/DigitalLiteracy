@@ -4,10 +4,10 @@
   "DataDetail": [
     {
       "ChatSide": "mid",
-      "Content": "1 เดือนต่อมา ระหว่างที่ป้าก้อยกำลังคุยโทรศัพท์กับแม่ของเจน"
+      "Content": "1 เดือนต่อมา ระหว่างที่typenameกำลังคุยโทรศัพท์กับแม่ของเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -40,7 +40,7 @@
           "Active": true
         }
       ],
-      "Content": "เจนลูก ป้าก้อยอยากคุยด้วย"
+      "Content": "เจนลูก typenameอยากคุยด้วย"
     },
     {
       "OnwerName": "เจน",
@@ -52,10 +52,10 @@
           "Active": true
         }
       ],
-      "Content": "คะป้าก้อย"
+      "Content": "คะtypename"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -67,7 +67,7 @@
       "Content": "เป็นอย่างไรบ้างหนูเจน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -79,7 +79,7 @@
       "Content": "สบายดีใช่ไหมลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -91,7 +91,7 @@
       "Content": "ตั้งแต่เจนกลับบ้าน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -112,7 +112,7 @@
           "Active": true
         }
       ],
-      "Content": "เจนสบายดีค่ะป้าก้อย"
+      "Content": "เจนสบายดีค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -127,7 +127,7 @@
       "Content": "โธ่ เดี๋ยวเจนจะแวะไปหาบ่อย ๆ นะคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -139,7 +139,7 @@
       "Content": "วันก่อนเจนเห็นข่าวไหมลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -172,7 +172,7 @@
           "Active": true
         }
       ],
-      "Content": "เจนเห็นแล้วค่ะป้าก้อย"
+      "Content": "เจนเห็นแล้วค่ะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -199,7 +199,7 @@
       "Content": "เห็นว่ามูลค่าความเสียหาย 1,000 กว่าล้านเลยนะคะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -211,7 +211,7 @@
       "Content": "นั่นแหละลูก"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -223,7 +223,7 @@
       "Content": "ป้าเสียใจจริง ๆ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -235,7 +235,7 @@
       "Content": "ที่ตอนนั้นไม่ฟังที่หนูเจนเตือนป้า"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -247,7 +247,7 @@
       "Content": "ตอนนี้เงินทั้งหมดที่ป้าเก็บมา"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -259,7 +259,7 @@
       "Content": "หายไปหมดแล้ว"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -271,7 +271,7 @@
       "Content": "ยังดีที่ยังมีหลานอยู่ข้าง ๆ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -283,7 +283,7 @@
       "Content": "ไม่งั้นป้าอาจจะคิดสั้นไปแล้วก็ได้"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -295,7 +295,7 @@
       "Content": "เพื่อนป้าหลายคนก็ล้มละลาย"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -316,7 +316,7 @@
           "Active": true
         }
       ],
-      "Content": "ไม่เป็นไรนะคะป้าก้อย"
+      "Content": "ไม่เป็นไรนะคะtypename"
     },
     {
       "OnwerName": "เจน",
@@ -355,7 +355,7 @@
       "Content": "ยังดีที่คนร้ายยังไม่ได้เอาเงินไปใช้ที่ไหน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -367,7 +367,7 @@
       "Content": "ถือว่าเป็นโชคดีในโชคร้ายล่ะนะ"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -379,7 +379,7 @@
       "Content": "หลังจากนี้ไป"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -391,7 +391,7 @@
       "Content": "ป้ากับเพื่อน ๆ ตกลงกันแล้วว่า"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -403,7 +403,7 @@
       "Content": "จะไม่แชร์ลิ้งค์อะไรลงไลน์กลุ่ม"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -415,7 +415,7 @@
       "Content": "ถ้าไม่เช็คว่าเป็นข่าวจริงก่อน"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -436,10 +436,10 @@
           "Active": true
         }
       ],
-      "Content": "ดีเลยค่ะป้าก้อย"
+      "Content": "ดีเลยค่ะtypename"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -451,7 +451,7 @@
       "Content": "ว่าแต่เว็บไซต์ที่หนูเจนใช้เช็คข่าวปลอม"
     },
     {
-      "OnwerName": "ป้าก้อย",
+      "OnwerName": "คุณ",
       "ChatSide": "right",
       "DialogImage": [
         {
@@ -472,7 +472,7 @@
           "Active": true
         }
       ],
-      "Content": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย ค่ะป้าก้อย",
+      "Content": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย ค่ะtypename",
       "LinkType": "page",
       "FileName": "end3"
     }

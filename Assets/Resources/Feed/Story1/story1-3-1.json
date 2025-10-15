@@ -3,7 +3,7 @@
     "BG": "house",
     "DataDetail": [
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
 
@@ -13,10 +13,10 @@
                 "Active" :false
             }
             ],
-            "Content": "แม่หนูนี่โชคดีจริง ๆ เลย"
+            "Content": "แม่หนูนี่โชคดีจริงๆ เลย"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -25,10 +25,10 @@
                 "Active" :false
             }
             ],
-            "Content": "มานี่มา {type}ให้ขนมไปกินนะลูก"
+            "Content": "มานี่มา typeให้ขนมไปกินนะลูก"
         },
         {
-            "OnwerName": "ป้าก้อย",
+            "OnwerName": "คุณ",
             "ChatSide": "right",
             "DialogImage":[
             {
@@ -50,7 +50,7 @@
                 "Active" :true
             }
             ],
-            "Content": "ขอบคุณค่ะป้าก้อย",
+            "Content": "ขอบคุณค่ะtypename",
             "ChatType":"Normal",
             "LinkType": "page",
             "FileName" : "T0"
