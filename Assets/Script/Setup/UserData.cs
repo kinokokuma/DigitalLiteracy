@@ -16,6 +16,11 @@ public class UserData : MonoBehaviour
     public static sex UserSex;
     public static bool UserPass =false;
     public static bool S2Pass = false;
+
+    public static string lung;
+    public static string pa;
+    public static string bun;
+    public static string you;
     //public static ImageUrl data;
     public static int Story1PostIndex;
 
@@ -32,6 +37,10 @@ public class UserData : MonoBehaviour
     public GameObject User;
     public TMP_Text des;
 
+    public TMP_Text lungText;
+    public TMP_Text paText;
+    public TMP_Text bunText;
+    public TMP_Text youText;
     public void Start()
     {
         next.onClick.AddListener(() => { User.SetActive(true); });
@@ -63,6 +72,10 @@ public class UserData : MonoBehaviour
         UserName = inputName.text;
         UserSex = dropdownSex.value==0?sex.male:sex.women;
         print(UserSex);
+        lung = lungText.text;
+        pa = paText.text;
+        bun = bunText.text;
+        you = youText.text;
     }
 
     void extract(string zipPath)

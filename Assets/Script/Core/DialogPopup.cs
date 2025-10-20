@@ -115,13 +115,13 @@ public class DialogPopup : BasePopUp
                 data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("name", $"{UserData.UserName}");
                 if (UserData.UserSex == sex.male)
                 {
-                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ลุง");
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", UserData.lung);
                     data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end1", "ครับ");
                     data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end2", "ครับ");
                 }
                 else
                 {
-                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ป้า");
+                    data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", UserData.pa);
                     data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end1", "คะ");
                     data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end2", "ค่ะ");
                 }
@@ -157,13 +157,13 @@ public class DialogPopup : BasePopUp
                     }
                     if (UserData.UserSex == sex.male)
                     {
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ลุง");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", UserData.lung);
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("ค่ะ", "ครับ");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("คะ", "ครับ");
                     }
                     else
                     {
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ป้า");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", UserData.pa);
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end1", "คะ");
                         data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("end2", "ค่ะ");
                     }
@@ -183,17 +183,17 @@ public class DialogPopup : BasePopUp
                 {
                     if (UserData.UserSex == sex.male)
                     {
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ลุง");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", UserData.lung);
 
                     }
                     else
                     {
-                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", "ป้า");
+                        data.DataDetail[chatIndex].Content = data.DataDetail[chatIndex].Content.Replace("type", UserData.pa);
                     }
                     oldIndex = chatIndex;
                     //Reload();
                 }
-                string front = data.DataDetail[chatIndex].ChatSide == "right" ? "คุณ " : data.DataDetail[chatIndex].ChatSide == "left" ? data.DataDetail[chatIndex].OnwerName : "คำบรรยาย";
+                string front = data.DataDetail[chatIndex].ChatSide == "right" ? UserData.you : data.DataDetail[chatIndex].ChatSide == "left" ? data.DataDetail[chatIndex].OnwerName : UserData.bun;
                 allDialogText.text += front + $" : {data.DataDetail[chatIndex].Content}\n\n";
             }
 
