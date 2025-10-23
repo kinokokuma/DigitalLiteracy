@@ -12,7 +12,7 @@
           "Active": false
         }
       ],
-      "Content": "ป้าไม่บอกหรอก"
+      "Content": "typeไม่บอกหรอก"
     },
     {
       "OnwerName": "คุณ",
@@ -24,7 +24,7 @@
           "Active": false
         }
       ],
-      "Content": "ถึงบอกไปก็ไม่เชื่อป้าอยู่ดี"
+      "Content": "ถึงบอกไปก็ไม่เชื่อtypeอยู่ดี"
     },
     {
       "OnwerName": "คุณ",
@@ -84,7 +84,7 @@
           "Active": false
         }
       ],
-      "Content": "ก็ได้ๆ ป้าจะเตือนพวกเขาแล้วกัน",
+      "Content": "ก็ได้ๆ typeจะเตือนพวกเขาแล้วกัน",
       "LinkType": "page",
       "FileName": "T3-12-1"
     }

@@ -234,7 +234,7 @@
     },
     {
       "OnwerName": "เจ้าของร้าน",
-      "ChatSide": " left",
+      "ChatSide": "left",
       "DialogImage": [
         {
           "Image": "image/owner",

@@ -10,7 +10,7 @@
     },
     {
       "OnwerName": "คุณ",
-      "ChatSide": " right",
+      "ChatSide": "right",
       "Content": "ชื่อคนรับไม่ตรงกับชื่อที่ร้านแปะไว้ล่ะ ?",
       "LinkType": "dialog",
       "FileName": "story2-21-1",

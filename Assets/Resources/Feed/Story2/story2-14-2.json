@@ -60,7 +60,7 @@
           "Active": false
         }
       ],
-      "Content": "ป้าไหว"
+      "Content": "typeไหว"
     },
     {
       "OnwerName": "คุณ",
@@ -76,7 +76,7 @@
     },
     {
       "OnwerName": "เจน",
-      "ChatSide": " left",
+      "ChatSide": "left",
       "DialogImage": [
         {
           "Image":"image/jane2",

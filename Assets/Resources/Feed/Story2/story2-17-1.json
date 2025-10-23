@@ -28,7 +28,7 @@
           "Active": false
         }
       ],
-      "Content": "ป้าได้ทีวีจอสวย ๆ มาดูหนังแล้ว"
+      "Content": "typeได้ทีวีจอสวย ๆ มาดูหนังแล้ว"
     },
     {
       "OnwerName": "คุณ",
@@ -124,7 +124,7 @@
           "Active": false
         }
       ],
-      "Content": "นี่ก็เป็นอีกเหตุผลที่ป้าซื้อทีวีเครื่องใหม่"
+      "Content": "นี่ก็เป็นอีกเหตุผลที่typeซื้อทีวีเครื่องใหม่"
     },
     {
       "OnwerName": "คุณ",
@@ -136,7 +136,7 @@
           "Active": false
         }
       ],
-      "Content": "เดี๋ยวมื้อนี้ป้าเลี้ยงเอง"
+      "Content": "เดี๋ยวมื้อนี้typeเลี้ยงเอง"
     },
     {
       "OnwerName": "คุณ",
@@ -160,11 +160,11 @@
           "Active": false
         }
       ],
-      "Content": "แล้วก็ขอบคุณหนูที่สอนป้าเช็คร้านด้วย"
+      "Content": "แล้วก็ขอบคุณหนูที่สอนtypeเช็คร้านด้วย"
     },
     {
       "OnwerName": "เจน",
-      "ChatSide": " left",
+      "ChatSide": "left",
       "DialogImage": [
         {
           "Image":"image/jane2",

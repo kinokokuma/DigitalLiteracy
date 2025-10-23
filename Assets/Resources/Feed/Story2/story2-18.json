@@ -84,7 +84,7 @@
           "Active": true
         }
       ],
-      "Content": "ทั้งหมด 1,765 บาทครับ"
+      "Content": "ทั้งหมด 1,765 บาทค่ะ"
     },
     {
       "OnwerName": "เจน",
@@ -144,7 +144,7 @@
           "Active": false
         }
       ],
-      "Content": "ป้าจ่ายเองลูก"
+      "Content": "typeจ่ายเองลูก"
     },
     {
       "OnwerName": "คุณ",
@@ -168,7 +168,7 @@
           "Active": false
         }
       ],
-      "Content": "แสกนจ่ายนะหนุ่ม"
+      "Content": "แสกนจ่ายนะ"
     },
     {
       "OnwerName": "พนักงาน",
@@ -180,7 +180,7 @@
           "Active": true
         }
       ],
-      "Content": "รบกวนสแกน QR ที่เคาท์เตอร์นะครับ",
+      "Content": "รบกวนสแกน QR ที่เคาท์เตอร์นะคะ",
       "LinkType": "dialog",
       "FileName": "story2-19"
     }

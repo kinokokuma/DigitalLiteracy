@@ -16,7 +16,7 @@
           "Active": false
         }
       ],
-      "Content": "เฮ้อ ป้าไม่น่าเห็นแก่ของถูกเลย"
+      "Content": "เฮ้อ typeไม่น่าเห็นแก่ของถูกเลย"
     },
     {
       "OnwerName": "คุณ",
@@ -188,7 +188,7 @@
     },
     {
       "OnwerName": "เจน",
-      "ChatSide": " left",
+      "ChatSide": "left",
       "DialogImage": [
         {
           "Image":"image/jane2",

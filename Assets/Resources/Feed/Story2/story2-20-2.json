@@ -12,7 +12,7 @@
           "Active": false
         }
       ],
-      "Content": "จ่ายเรียบร้อยแล้วนะหนุ่ม"
+      "Content": "จ่ายเรียบร้อยแล้วนะ"
     },
     {
       "OnwerName": "พนักงาน",
@@ -60,7 +60,7 @@
     },
     {
       "OnwerName": "เจน",
-      "ChatSide": " left",
+      "ChatSide": "left",
       "DialogImage": [
         {
           "Image":"image/jane2",

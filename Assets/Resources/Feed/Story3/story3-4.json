@@ -48,7 +48,7 @@
           "Active": false
         }
       ],
-      "Content": "โห เพื่อนป้าซื้อกันเต็มเลย"
+      "Content": "โห เพื่อนtypeซื้อกันเต็มเลย"
     },
     {
       "ChatSide": "mid",
@@ -59,7 +59,7 @@
           "Active": false
         }
       ],
-      "Content": "typenameควรซื่อตามเพื่อนเลยหรือไม่?",
+      "Content": "typenameควรซื้อตามเพื่อนเลยหรือไม่?",
       "Choice": [
         {
           "ID": "001",
